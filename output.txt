@@ -1,0 +1,586 @@
+results = {
+	"search_metadata": {
+		"id": "6428adce1baebbe0d59dff13",
+		"status": "Success",
+		"json_endpoint": "https://serpapi.com/searches/5e4f0decd2e5ef94/6428adce1baebbe0d59dff13.json",
+		"created_at": "2023-04-01 22:18:54 UTC",
+		"processed_at": "2023-04-01 22:18:54 UTC",
+		"google_url": "https://www.google.com/search?q=Elections&oq=Elections&filter=0&sourceid=chrome&ie=UTF-8",
+		"raw_html_file": "https://serpapi.com/searches/5e4f0decd2e5ef94/6428adce1baebbe0d59dff13.html",
+		"total_time_taken": 2.02
+	},
+	"search_parameters": {
+		"engine": "google",
+		"q": "Elections",
+		"google_domain": "google.com",
+		"device": "desktop",
+		"filter": "0"
+	},
+	"search_information": {
+		"organic_results_state": "Results for exact spelling",
+		"query_displayed": "Elections",
+		"total_results": 2040000000,
+		"time_taken_displayed": 0.55,
+		"menu_items": [
+			{
+				"position": 1,
+				"title": "All"
+			},
+			{
+				"position": 2,
+				"title": "News",
+				"link": "https://www.google.com/search?q=Elections&source=lnms&tbm=nws&sa=X&ved=2ahUKEwiN5vaw24n-AhUZpVYBHaiRBYsQ_AUoAXoECAMQAw",
+				"serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&filter=0&google_domain=google.com&q=Elections&tbm=nws"
+			},
+			{
+				"position": 3,
+				"title": "Images",
+				"link": "https://www.google.com/search?q=Elections&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiN5vaw24n-AhUZpVYBHaiRBYsQ_AUoAnoECAMQBA",
+				"serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&filter=0&google_domain=google.com&q=Elections&tbm=isch"
+			},
+			{
+				"position": 4,
+				"title": "Videos",
+				"link": "https://www.google.com/search?q=Elections&source=lnms&tbm=vid&sa=X&ved=2ahUKEwiN5vaw24n-AhUZpVYBHaiRBYsQ_AUoA3oECAMQBQ",
+				"serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&filter=0&google_domain=google.com&q=Elections&tbm=vid"
+			},
+			{
+				"position": 5,
+				"title": "Shopping",
+				"link": "https://www.google.com/search?q=Elections&source=lnms&tbm=shop&sa=X&ved=2ahUKEwiN5vaw24n-AhUZpVYBHaiRBYsQ_AUoBHoECAMQBg",
+				"serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&filter=0&google_domain=google.com&q=Elections&tbm=shop"
+			}
+		]
+    
+    "organic_results": [
+			{
+				"position": 1,
+				"title": "Voting and Elections | USAGov",
+				"link": "https://www.usa.gov/voting",
+				"displayed_link": "https://www.usa.gov \u203a voting",
+				"snippet": "Find answers to common questions about voting in the United States.",
+				"about_this_result": {
+					"source": {
+						"description": "usa.gov was first indexed by Google more than 10 years ago",
+						"source_info_link": "https://www.usa.gov/voting",
+						"security": "secure",
+						"icon": "https://serpapi.com/searches/6428adce1baebbe0d59dff13/images/04c5da0f6ca96bf69c03756ce2bdd86931d3c4365f9ca5b1d75303edab63815b9bea4b225095ad41677da5f6720e6f31.png"
+					}
+				},
+				"about_page_link": "https://www.google.com/search?q=About+https://www.usa.gov/voting&tbm=ilp&ilps=ADJL0ix89RZ_XC_-SyBgsVN-1Tw7N38kHA",
+				"about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&ilps=ADJL0ix89RZ_XC_-SyBgsVN-1Tw7N38kHA&q=About+https%3A%2F%2Fwww.usa.gov%2Fvoting",
+				"cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:8Oq80uRs6OAJ:https://www.usa.gov/voting&cd=16&hl=en&ct=clnk&gl=us",
+				"related_pages_link": "https://www.google.com/search?q=related:https://www.usa.gov/voting+Elections",
+				"related_results": [
+					{
+						"position": 1,
+						"title": "Find My State or Local Election Office Website",
+						"link": "https://www.usa.gov/election-office",
+						"displayed_link": "https://www.usa.gov \u203a election-office",
+						"snippet": "For statewide voting guidance, select your state below to visit its election office. Find your state or territory: Alabama ...",
+						"snippet_highlighted_words": [
+							"election"
+						],
+						"about_this_result": {
+							"source": {
+								"description": "usa.gov was first indexed by Google more than 10 years ago",
+								"source_info_link": "https://www.usa.gov/election-office",
+								"security": "secure",
+								"icon": "https://serpapi.com/searches/6428adce1baebbe0d59dff13/images/04c5da0f6ca96bf69c03756ce2bdd869eec88a5bf5305d43f9143ad1f92118cb51ab47b06bee14e0eefc2b138f6727ee980bbab09e58562ebb448463b6ff8a226cbb9d8475d2c848.png"
+							}
+						},
+						"about_page_link": "https://www.google.com/search?q=About+https://www.usa.gov/election-office&tbm=ilp&ilps=ADJL0ix9hu4URTQBjgssPIqE5_HNe6ENAQ",
+						"about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&ilps=ADJL0ix9hu4URTQBjgssPIqE5_HNe6ENAQ&q=About+https%3A%2F%2Fwww.usa.gov%2Felection-office",
+						"cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:SDHeyoGs3CgJ:https://www.usa.gov/election-office&cd=17&hl=en&ct=clnk&gl=us",
+						"related_pages_link": "https://www.google.com/search?q=related:https://www.usa.gov/election-office+Elections"
+					}
+				]
+			},
+			{
+				"position": 2,
+				"title": "Elections",
+				"link": "https://www.npr.org/sections/elections/",
+				"displayed_link": "https://www.npr.org \u203a sections \u203a elections",
+				"snippet": "Explore NPR's latest election coverage.",
+				"snippet_highlighted_words": [
+					"election"
+				],
+				"about_this_result": {
+					"source": {
+						"description": "National Public Radio is an American nonprofit media organization headquartered in Washington, D.C., with its NPR West headquarters in Culver City, California. It serves as a national syndicator to a network of over 1,000 public radio stations in the United States.",
+						"source_info_link": "https://www.npr.org/sections/elections/",
+						"security": "secure"
+					}
+				},
+				"about_page_link": "https://www.google.com/search?q=About+https://www.npr.org/sections/elections/&tbm=ilp&ilps=ADJL0iwl-u2cGawqiDOwxLCide4fHjR0sQ",
+				"about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&ilps=ADJL0iwl-u2cGawqiDOwxLCide4fHjR0sQ&q=About+https%3A%2F%2Fwww.npr.org%2Fsections%2Felections%2F"
+			},
+			{
+				"position": 3,
+				"title": "FEC: Home",
+				"link": "https://www.fec.gov/",
+				"displayed_link": "https://www.fec.gov",
+				"snippet": "Find what you need to know about the federal campaign finance process. Explore legal resources, campaign finance data, help for candidates and committees, ...",
+				"about_this_result": {
+					"source": {
+						"description": "The Federal Election Commission is an independent regulatory agency of the United States whose purpose is to enforce campaign finance law in United States federal elections.",
+						"source_info_link": "https://www.fec.gov/",
+						"security": "secure",
+						"icon": "https://serpapi.com/searches/6428adce1baebbe0d59dff13/images/04c5da0f6ca96bf69c03756ce2bdd8695de8204f6acee01e18ef642b909bc8ea593e29b8ebb9f3a964fb60b214677b61.png"
+					}
+				},
+				"about_page_link": "https://www.google.com/search?q=About+https://www.fec.gov/&tbm=ilp&ilps=ADJL0iwwNezV31xoXS3U3dlbQywZxRt2KA",
+				"about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&ilps=ADJL0iwwNezV31xoXS3U3dlbQywZxRt2KA&q=About+https%3A%2F%2Fwww.fec.gov%2F",
+				"cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:T8VfCeOHZIcJ:https://www.fec.gov/&cd=22&hl=en&ct=clnk&gl=us"
+			},
+			{
+				"position": 4,
+				"title": "Elections - United States Department of State",
+				"link": "https://www.state.gov/subjects/elections/",
+				"displayed_link": "https://www.state.gov \u203a subjects \u203a elections",
+				"snippet": "141 items. Press Statement. The Dissolution of Political Parties in Burma. Antony J. Blinken March 30, 2023. Press Statement. 2023 Presidential Election ...",
+				"snippet_highlighted_words": [
+					"Election"
+				],
+				"about_this_result": {
+					"source": {
+						"description": "The United States Department of State, or simply the State Department, is an executive department of the U.S. federal government responsible for the country's foreign policy and relations.",
+						"source_info_link": "https://www.state.gov/subjects/elections/",
+						"security": "secure",
+						"icon": "https://serpapi.com/searches/6428adce1baebbe0d59dff13/images/04c5da0f6ca96bf69c03756ce2bdd8691fa0ef350347375c749a6c0f3eb56ac708de3ceda5dc4bda2fd338505dc8309d.png"
+					}
+				},
+				"about_page_link": "https://www.google.com/search?q=About+https://www.state.gov/subjects/elections/&tbm=ilp&ilps=ADJL0iz5yXYSHTy7DDv7zMuhUgZjnE-2BQ",
+				"about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&ilps=ADJL0iz5yXYSHTy7DDv7zMuhUgZjnE-2BQ&q=About+https%3A%2F%2Fwww.state.gov%2Fsubjects%2Felections%2F",
+				"cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:tLo4QHNpDTsJ:https://www.state.gov/subjects/elections/&cd=23&hl=en&ct=clnk&gl=us"
+			},
+		],
+		"related_searches": [
+			{
+				"query": "elections results",
+				"link": "https://www.google.com/search?q=Elections+results&sa=X&ved=2ahUKEwiN5vaw24n-AhUZpVYBHaiRBYsQ1QJ6BAhYEAE"
+			},
+			{
+				"query": "elections definition",
+				"link": "https://www.google.com/search?q=Elections+definition&sa=X&ved=2ahUKEwiN5vaw24n-AhUZpVYBHaiRBYsQ1QJ6BAhXEAE"
+			},
+			{
+				"query": "local elections near me",
+				"link": "https://www.google.com/search?q=Local+elections+near+me&sa=X&ved=2ahUKEwiN5vaw24n-AhUZpVYBHaiRBYsQ1QJ6BAhWEAE"
+			},
+			{
+				"query": "local elections",
+				"link": "https://www.google.com/search?q=Local+elections&sa=X&ved=2ahUKEwiN5vaw24n-AhUZpVYBHaiRBYsQ1QJ6BAhVEAE"
+			},
+			{
+				"query": "elections today",
+				"link": "https://www.google.com/search?q=Elections+today&sa=X&ved=2ahUKEwiN5vaw24n-AhUZpVYBHaiRBYsQ1QJ6BAhUEAE"
+			},
+			{
+				"query": "upcoming elections",
+				"link": "https://www.google.com/search?q=Upcoming+elections&sa=X&ved=2ahUKEwiN5vaw24n-AhUZpVYBHaiRBYsQ1QJ6BAhTEAE"
+			},
+			{
+				"query": "elections cnn",
+				"link": "https://www.google.com/search?q=Elections+CNN&sa=X&ved=2ahUKEwiN5vaw24n-AhUZpVYBHaiRBYsQ1QJ6BAhSEAE"
+			},
+			{
+				"query": "state elections",
+				"link": "https://www.google.com/search?q=State+elections&sa=X&ved=2ahUKEwiN5vaw24n-AhUZpVYBHaiRBYsQ1QJ6BAhREAE"
+			}
+		],
+		"pagination": {
+			"current": 1,
+			"next": "https://www.google.com/search?q=Elections&oq=Elections&start=10&filter=0&sourceid=chrome&ie=UTF-8",
+			"other_pages": {
+				"2": "https://www.google.com/search?q=Elections&oq=Elections&start=10&filter=0&sourceid=chrome&ie=UTF-8",
+				"3": "https://www.google.com/search?q=Elections&oq=Elections&start=20&filter=0&sourceid=chrome&ie=UTF-8",
+				"4": "https://www.google.com/search?q=Elections&oq=Elections&start=30&filter=0&sourceid=chrome&ie=UTF-8",
+				"5": "https://www.google.com/search?q=Elections&oq=Elections&start=40&filter=0&sourceid=chrome&ie=UTF-8"
+			}
+		},
+		"serpapi_pagination": {
+			"current": 1,
+			"next_link": "https://serpapi.com/search.json?device=desktop&engine=google&filter=0&google_domain=google.com&q=Elections&start=10",
+			"next": "https://serpapi.com/search.json?device=desktop&engine=google&filter=0&google_domain=google.com&q=Elections&start=10",
+			"other_pages": {
+				"2": "https://serpapi.com/search.json?device=desktop&engine=google&filter=0&google_domain=google.com&q=Elections&start=10",
+				"3": "https://serpapi.com/search.json?device=desktop&engine=google&filter=0&google_domain=google.com&q=Elections&start=20",
+				"4": "https://serpapi.com/search.json?device=desktop&engine=google&filter=0&google_domain=google.com&q=Elections&start=30",
+				"5": "https://serpapi.com/search.json?device=desktop&engine=google&filter=0&google_domain=google.com&q=Elections&start=40"
+			}
+		}
+	}
+	// video search res
+
+res = {
+		"search_metadata": {
+			"id": "64295492dc02f1768dce8a85",
+			"status": "Success",
+			"json_endpoint": "https://serpapi.com/searches/9ddefbaaffc7c5d5/64295492dc02f1768dce8a85.json",
+			"created_at": "2023-04-02 10:10:26 UTC",
+			"processed_at": "2023-04-02 10:10:26 UTC",
+			"google_url": "https://www.google.com/search?q=Andrew+Tate&oq=Andrew+Tate&hl=en&tbm=vid&filter=0&sourceid=chrome&ie=UTF-8",
+			"raw_html_file": "https://serpapi.com/searches/9ddefbaaffc7c5d5/64295492dc02f1768dce8a85.html",
+			"total_time_taken": 0.45
+		},
+		"search_parameters": {
+			"engine": "google",
+			"q": "Andrew Tate",
+			"google_domain": "google.com",
+			"hl": "en",
+			"device": "desktop",
+			"tbm": "vid",
+			"filter": "0"
+		},
+		"search_information": {
+			"video_results_state": "Results for exact spelling",
+			"query_displayed": "Andrew Tate",
+			"total_results": 8030000,
+			"time_taken_displayed": 0.33,
+			"menu_items": [
+				{
+					"position": 1,
+					"title": "Next",
+					"link": "https://www.google.com/search?q=Andrew+Tate&hl=en&tbm=vid&ei=klQpZIb5Iurk5NoPqs-q0Ag&start=10&sa=N&filter=0&ved=2ahUKEwiGiua1-or-AhVqMlkFHaqnCooQ8NMDegQIDxAW",
+					"serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&filter=0&google_domain=google.com&hl=en&q=Andrew+Tate&start=10&tbm=vid"
+				}
+			]
+		},
+		"video_results": [
+			{
+				"position": 1,
+				"title": "Andrew Tate released from Romanian jail, placed ... - Fox News",
+				"link": "https://www.foxnews.com/world/andrew-tate-released-romanian-jail-placed-house-arrest",
+				"displayed_link": "www.foxnews.com › world › andrew-tate-released-roman...",
+				"thumbnail": "https://serpapi.com/searches/64295492dc02f1768dce8a85/images/9ffbc8ecd235eaba22e72a32c2bb6484511f4f5c3fd23f64eb1b27e866eeae4a.jpeg",
+				"snippet": "Andrew Tate was released from a Romanian jail on Friday, where he was being held under suspicion of rape, human trafficking, and forming an ...",
+				"rich_snippet": {
+					"top": {
+						"extensions": [
+							"Fox News",
+							"Adam Sabes",
+							"7 hours ago"
+						],
+						"detected_extensions": {
+							"hours_ago": 7
+						}
+					}
+				}
+			},
+			{
+				"position": 2,
+				"title": "Andrew Tate released from Romanian jail, put on house arrest",
+				"link": "https://nypost.com/2023/03/31/andrew-tate-released-from-romanian-jail-on-house-arrest/",
+				"displayed_link": "nypost.com › 2023/03/31 › andrew-tate-released-from-ro...",
+				"thumbnail": "https://serpapi.com/searches/64295492dc02f1768dce8a85/images/9ffbc8ecd235eabafff1aaeae289f06995a56fa1a9155f31fc2600caa87b8805.jpeg",
+				"snippet": "Tate had been jailed since late December on suspicion of organized crime and human trafficking. The 36-year-old influence — who boasts 5.5 ...",
+				"rich_snippet": {
+					"top": {
+						"extensions": [
+							"New York Post",
+							"Katherine Donlevy",
+							"1 day ago"
+						],
+						"detected_extensions": {
+							"day_ago": 1
+						}
+					}
+				},
+				"video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcSuwsoPCI5aUh3JQroXrPSGz7oBz9c-JuxWCw"
+			},
+			{
+				"position": 3,
+				"title": "Andrew Tate placed under house arrest after prison release",
+				"link": "https://www.youtube.com/watch?v=eJpxgN_nm5A",
+				"displayed_link": "www.youtube.com › watch",
+				"thumbnail": "https://serpapi.com/searches/64295492dc02f1768dce8a85/images/9ffbc8ecd235eaba3a7068a215ed66c1a39dd8a4e64e897376a17ca24e34ab89.jpeg",
+				"snippet": "The social media influencer Andrew Tate and his brother have been moved out of detention in Romania to house arrest, after a court ruled in ...",
+				"rich_snippet": {
+					"top": {
+						"extensions": [
+							"YouTube",
+							"Channel 4 News",
+							"15 hours ago"
+						],
+						"detected_extensions": {
+							"channel_news": 4,
+							"hours_ago": 15
+						}
+					}
+				},
+				"video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcTSNjXoLva045XM4QDfcDgzm26iU_WHOMQifQ"
+			},
+			{
+				"position": 4,
+				"title": "Adin Ross Facetimes ANDREW TATE - YouTube",
+				"link": "https://www.youtube.com/watch?v=xFJOjEmk1ro",
+				"displayed_link": "www.youtube.com › watch",
+				"thumbnail": "https://serpapi.com/searches/64295492dc02f1768dce8a85/images/9ffbc8ecd235eabaa255d6388c99a2d4a1273f7742dd8026a3479bf7a8aa7d76.jpeg",
+				"snippet": "Adin Ross Facetimes Andrew TateIM LIVE EVERY DAY- https://kick.com/adinross▻ Follow My Socials:▶️ Twitter: https: ...",
+				"rich_snippet": {
+					"top": {
+						"extensions": [
+							"YouTube",
+							"Adin Live",
+							"6 hours ago"
+						],
+						"detected_extensions": {
+							"hours_ago": 6
+						}
+					}
+				}
+			},
+			{
+				"position": 5,
+				"title": "Andrew Tate Released from Romanian Jail and Placed Under ...",
+				"link": "https://people.com/crime/andrew-tate-brother-tristan-released-from-romanian-jail-placed-house-arrest/",
+				"displayed_link": "people.com › crime › andrew-tate-brother-tristan-released...",
+				"thumbnail": "https://serpapi.com/searches/64295492dc02f1768dce8a85/images/9ffbc8ecd235eaba386a29f77597573abeea70fec1ba9717f824b0d00763971e.jpeg",
+				"snippet": "The internet personality, 36 — along with his brother Tristan Tate and two Romanian women — was detained in December in connection to an ...",
+				"rich_snippet": {
+					"top": {
+						"extensions": [
+							"People",
+							"Ingrid Vasquez",
+							"1 day ago"
+						],
+						"detected_extensions": {
+							"day_ago": 1
+						}
+					}
+				}
+			},
+			{
+				"position": 6,
+				"title": "Online influencer Andrew Tate moved to house arrest in ...",
+				"link": "https://www.aljazeera.com/news/2023/4/1/online-influencer-andrew-tate-moved-to-house-arrest-in-romania",
+				"displayed_link": "www.aljazeera.com › news › online-influencer-andrew-tat...",
+				"thumbnail": "https://serpapi.com/searches/64295492dc02f1768dce8a85/images/9ffbc8ecd235eaba9d8bcfdcbb43954be930e6c80531c7de60fb72d03c9fcaf2.jpeg",
+				"snippet": "Divisive online influencer and self-described misogynist Andrew Tate and his brother have been moved to house arrest while they are ...",
+				"rich_snippet": {
+					"top": {
+						"extensions": [
+							"Al Jazeera",
+							"Al Jazeera English",
+							"1 day ago"
+						],
+						"detected_extensions": {
+							"day_ago": 1
+						}
+					}
+				},
+				"video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcTaH1dYpY14iqspslJwZaJgtBRjjk-b_autsg"
+			},
+			{
+				"position": 7,
+				"title": "Andrew Tate and Tristan Tate moved to house arrest - YouTube",
+				"link": "https://www.youtube.com/watch?v=AdyGgCbFzIE",
+				"displayed_link": "www.youtube.com › watch",
+				"thumbnail": "https://serpapi.com/searches/64295492dc02f1768dce8a85/images/9ffbc8ecd235eabab99fbf15347d469e407d83b928f593a505ee9dfed47c7fc1.jpeg",
+				"snippet": "Controversial social media influencer Andrew Tate and his brother Tristan have been moved from custody to house arrest following a ruling by ...",
+				"rich_snippet": {
+					"top": {
+						"extensions": [
+							"YouTube",
+							"BBC News",
+							"23 hours ago"
+						],
+						"detected_extensions": {
+							"hours_ago": 23
+						}
+					}
+				},
+				"video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcSYMPNF39L_5a4fziX9j22Qcs0VrI-cAE7PjQ"
+			},
+			{
+				"position": 8,
+				"title": "Andrew Tate responds after being 'hilariously' mocked in ...",
+				"link": "https://www.independent.co.uk/arts-entertainment/tv/news/south-park-andrew-tate-episode-b2312282.html",
+				"displayed_link": "www.independent.co.uk › Culture › TV & Radio › News",
+				"thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxVEOsQiOXUpRDLJf8LWPbNbg5nK8r-ZsLy0KnjlaVQaWY&s",
+				"snippet": "Tate, a former kickboxing world champion, who has amassed millions of followers for his misogynistic online content, is currently under arrest ...",
+				"rich_snippet": {
+					"top": {
+						"extensions": [
+							"The Independent",
+							"Jacob Stolworthy",
+							"19 hours ago"
+						],
+						"detected_extensions": {
+							"hours_ago": 19
+						}
+					}
+				}
+			},
+			{
+				"position": 9,
+				"title": "Andrew Tate (@Cobratate) / Twitter",
+				"link": "https://twitter.com/Cobratate",
+				"displayed_link": "twitter.com › Cobratate",
+				"thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSR-GAXSwFbR9to-e15h3EmkB77AGFilcRaDlI-L5vuCqZU&s",
+				"snippet": "Andrew Tate's Tweets ... All glory to god. ... Since last year ive been in 24 hour lockdown. No yard time. Pacing a 3metre cell with zero electronics or outside ...",
+				"rich_snippet": {
+					"top": {
+						"extensions": [
+							"Twitter",
+							"4 hours ago"
+						],
+						"detected_extensions": {
+							"hours_ago": 4
+						}
+					}
+				},
+				"video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcRd75RkxKR9iQuV0mtSRvsBKbWMqXVXifjgmA"
+			},
+			{
+				"position": 10,
+				"title": "Andrew Tate released from jail in Romania and placed under ...",
+				"link": "https://news.sky.com/story/andrew-tate-released-from-jail-and-placed-under-house-arrest-his-spokesperson-says-12846734",
+				"displayed_link": "news.sky.com › story › andrew-tate-released-from-jail-an...",
+				"thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXGrbEzFBvkGNjx-Tw0BRjoIUNU7iSvgjrB-i-AKrpyv_8&s",
+				"snippet": "British-American Andrew Tate, who has been based mainly in Romania since 2017, is an online influencer who has amassed millions of followers, ...",
+				"rich_snippet": {
+					"top": {
+						"extensions": [
+							"Sky News",
+							"1 day ago"
+						],
+						"detected_extensions": {
+							"day_ago": 1
+						}
+					}
+				}
+			}
+		],
+		"pagination": {
+			"current": 1,
+			"next": "https://www.google.com/search?q=Andrew+Tate&hl=en&tbm=vid&ei=klQpZIb5Iurk5NoPqs-q0Ag&start=10&sa=N&filter=0&ved=2ahUKEwiGiua1-or-AhVqMlkFHaqnCooQ8NMDegQIDxAW",
+			"other_pages": {
+				"https://www.google.com/search?q=Andrew+Tate&hl=en&tbm=vid&ei=klQpZIb5Iurk5NoPqs-q0Ag&start=10&sa=N&filter=0&ved=2ahUKEwiGiua1-or-AhVqMlkFHaqnCooQ8tMDegQIDxAE",
+				"https://www.google.com/search?q=Andrew+Tate&hl=en&tbm=vid&ei=klQpZIb5Iurk5NoPqs-q0Ag&start=20&sa=N&filter=0&ved=2ahUKEwiGiua1-or-AhVqMlkFHaqnCooQ8tMDegQIDxAG",
+				"https://www.google.com/search?q=Andrew+Tate&hl=en&tbm=vid&ei=klQpZIb5Iurk5NoPqs-q0Ag&start=30&sa=N&filter=0&ved=2ahUKEwiGiua1-or-AhVqMlkFHaqnCooQ8tMDegQIDxAI",
+				"https://www.google.com/search?q=Andrew+Tate&hl=en&tbm=vid&ei=klQpZIb5Iurk5NoPqs-q0Ag&start=40&sa=N&filter=0&ved=2ahUKEwiGiua1-or-AhVqMlkFHaqnCooQ8tMDegQIDxAK",
+				"https://www.google.com/search?q=Andrew+Tate&hl=en&tbm=vid&ei=klQpZIb5Iurk5NoPqs-q0Ag&start=50&sa=N&filter=0&ved=2ahUKEwiGiua1-or-AhVqMlkFHaqnCooQ8tMDegQIDxAM",
+				"https://www.google.com/search?q=Andrew+Tate&hl=en&tbm=vid&ei=klQpZIb5Iurk5NoPqs-q0Ag&start=60&sa=N&filter=0&ved=2ahUKEwiGiua1-or-AhVqMlkFHaqnCooQ8tMDegQIDxAO",
+				"https://www.google.com/search?q=Andrew+Tate&hl=en&tbm=vid&ei=klQpZIb5Iurk5NoPqs-q0Ag&start=70&sa=N&filter=0&ved=2ahUKEwiGiua1-or-AhVqMlkFHaqnCooQ8tMDegQIDxAQ",
+				"https://www.google.com/search?q=Andrew+Tate&hl=en&tbm=vid&ei=klQpZIb5Iurk5NoPqs-q0Ag&start=80&sa=N&filter=0&ved=2ahUKEwiGiua1-or-AhVqMlkFHaqnCooQ8tMDegQIDxAS",
+				"https://www.google.com/search?q=Andrew+Tate&hl=en&tbm=vid&ei=klQpZIb5Iurk5NoPqs-q0Ag&start=90&sa=N&filter=0&ved=2ahUKEwiGiua1-or-AhVqMlkFHaqnCooQ8tMDegQIDxAU"
+			}
+		},
+		"serpapi_pagination": {
+			"current": 1,
+			"next_link": "https://serpapi.com/search.json?device=desktop&engine=google&filter=0&google_domain=google.com&hl=en&q=Andrew+Tate&start=10&tbm=vid",
+			"next": "https://serpapi.com/search.json?device=desktop&engine=google&filter=0&google_domain=google.com&hl=en&q=Andrew+Tate&start=10&tbm=vid",
+			"other_pages": {
+				"https://serpapi.com/search.json?device=desktop&engine=google&filter=0&google_domain=google.com&hl=en&q=Andrew+Tate&start=10&tbm=vid",
+				"https://serpapi.com/search.json?device=desktop&engine=google&filter=0&google_domain=google.com&hl=en&q=Andrew+Tate&start=20&tbm=vid",
+				"https://serpapi.com/search.json?device=desktop&engine=google&filter=0&google_domain=google.com&hl=en&q=Andrew+Tate&start=30&tbm=vid",
+				"https://serpapi.com/search.json?device=desktop&engine=google&filter=0&google_domain=google.com&hl=en&q=Andrew+Tate&start=40&tbm=vid",
+				"https://serpapi.com/search.json?device=desktop&engine=google&filter=0&google_domain=google.com&hl=en&q=Andrew+Tate&start=50&tbm=vid",
+				"https://serpapi.com/search.json?device=desktop&engine=google&filter=0&google_domain=google.com&hl=en&q=Andrew+Tate&start=60&tbm=vid",
+				"https://serpapi.com/search.json?device=desktop&engine=google&filter=0&google_domain=google.com&hl=en&q=Andrew+Tate&start=70&tbm=vid",
+				"https://serpapi.com/search.json?device=desktop&engine=google&filter=0&google_domain=google.com&hl=en&q=Andrew+Tate&start=80&tbm=vid",
+				"https://serpapi.com/search.json?device=desktop&engine=google&filter=0&google_domain=google.com&hl=en&q=Andrew+Tate&start=90&tbm=vid"
+			}
+		}
+	}
+
+
+	"news_results": [
+		{
+			"position": 1,
+			"link": "https://www.latimes.com/opinion/story/2023-04-02/trump-qanon-andrew-tate-fascism-mussolini-nazis-white-men",
+			"title": "Lost in Andrew Tate-land, 4chan, QAnon: How fascism became a lifestyle",
+			"source": "Los Angeles Times",
+			"date": "24 mins ago",
+			"snippet":
+	"The overlap between the ideologies of Mussolini and Hitler and today's
+	far-right fascism are too stark to ignore.","thumbnail": "https://serpapi.com/searches/642957faf26ac65fd7637687/images/94ed3289edd0773f9c37b35e33368386e528f0c4916f4b377d46850654920ad1.jpeg"
+		},
+		{
+			"position": 2,
+			"link": "https://metro.co.uk/2023/04/01/freed-andrew-tate-posts-bizarre-clip-of-him-pacing-shirtless-18540627/",
+			"title": "Freed Andrew Tate posts bizarre clip of him pacing shirtless",
+			"source": "Metro",
+			"date": "17 hours ago",
+			"snippet":
+	"Andrew Tate posted a strange video of himself on Twitter pacing and smoking
+	a cigar from his home in Bucharest, Romania.","thumbnail": "https://serpapi.com/searches/642957faf26ac65fd7637687/images/94ed3289edd0773f4c316e250ea955a62323f64e2ed8b5fa171f8a9f47f8d0f6.jpeg"
+		},
+		{
+			"position": 3,
+			"link": "https://fandomwire.com/andrew-tate-release-clearly-has-a-huge-connection-to-keanu-reeves-465-million-movie-the-matrix/",
+			"title": "Andrew Tate Release Clearly Has a Huge Connection to Keanu Reeves' $465 Million Movie 'The Matrix'",
+			"source": "FandomWire",
+			"date": "1 day ago",
+			"snippet":
+	"Former kickboxer and controversial social media influencer Andrew Tate has
+	prominently been in the news but not always for his athletic...","thumbnail": "https://serpapi.com/searches/642957faf26ac65fd7637687/images/94ed3289edd0773f1149f0cae9f5a746fe01fe491d4ae0a29549cb4e7b7f541f.jpeg"
+		},
+		{
+			"position": 4,
+			"link": "https://www.dancehallmag.com/2023/04/01/news/top-g-andrew-tate-blasts-shane-os-7-jacket-in-first-video-since-release-from-jail.html",
+			"title": "'Top G' Andrew Tate Blasts Shane O's '7 Jacket' In First Video Since Release From Jail",
+			"source": "DancehallMag",
+			"date": "15 hours ago",
+			"snippet":
+	"Shane O is counting his blessings once again, after Andrew Tate returned to
+	Twitter and shared a video of himself pacing in a room while...","thumbnail": "https://serpapi.com/searches/642957faf26ac65fd7637687/images/94ed3289edd0773f1eaedcebeb4d35647e984a83dfe0c65848c113bc931dac03.jpeg"
+		},
+		{
+			"position": 5,
+			"link": "https://www.itv.com/news/2023-04-02/is-andrew-tates-conversion-to-islam-toxic-to-the-muslim-community",
+			"title": "How Muslims feel about Andrew Tate's conversion to Islam | ITV News",
+			"source": "ITVX",
+			"date": "2 hours ago",
+			"snippet":
+	"ITV News' Here's the Story spoke to people from the Muslim community about
+	the impact Tate's conversion has had on young people.","thumbnail": "https://serpapi.com/searches/642957faf26ac65fd7637687/images/94ed3289edd0773ff6595bde74c8e7176b76a5607aec971acbdd31f35d8e6067.jpeg"
+		},
+		{
+			"position": 6,
+			"link": "https://www.rollingstone.com/culture/culture-features/andrew-tate-empire-real-story-1234696706/",
+			"title": "Andrew Tate Built an Empire on Bullshit. Here’s the Real Story",
+			"source": "Rolling Stone",
+			"date": "2 weeks ago",
+			"snippet":
+	"A ndrew Tate had a plan. It was late January, and he sat in a stark jail
+	cell in a bland, four-story police structure in Bucharest, Romania.","thumbnail": "https://serpapi.com/searches/642957faf26ac65fd7637687/images/94ed3289edd0773f751086a3388653c0a7fe1b3523e918eae973130238d0d500.jpeg"
+		},
+		{
+			"position": 7,
+			"link": "https://nymag.com/intelligencer/article/andrew-tate-jail-investigation.html",
+			"title": "Why Andrew Tate's Gospel Captured a Generation of Boys",
+			"source": "New York Magazine",
+			"date": "3 weeks ago",
+			"snippet":
+	"What a generation of boys have found in Andrew Tate's extreme male gospel.
+	In December, Tate was detained near Bucharest, Romania,...","thumbnail": "https://serpapi.com/searches/642957faf26ac65fd7637687/images/94ed3289edd0773f5bc3045eb0fb46d2f70525064c5e068232676403918f32c4.jpeg"
+		},
+		{
+			"position": 8,
+			"link": "https://www.bbc.com/news/world-europe-65150613",
+			"title": "Andrew Tate: See luxury villa where brothers are under house arrest",
+			"source": "BBC",
+			"date": "12 hours ago",
+			"snippet":
+	"The BBC's Lucy Williamson looks at the compound where Andrew Tate and
+	brother Tristan are confined.","thumbnail": "https://serpapi.com/searches/642957faf26ac65fd7637687/images/94ed3289edd0773f4d8a07e4ebaffc215c57f8f072d4d53fc57c27766fb89a77.jpeg"
+		}
+	],
+	"pagination": {
+		"current": 1,
+		"next": "https://www.google.com/search?q=Andrew+Tate&hl=en&tbm=nws&ei=-lcpZIqKDoui5NoPmIuliAQ&start=10&sa=N&filter=0&ved=2ahUKEwiK77fV_Yr-AhULEVkFHZhFCUEQ8NMDegQIAhAW",
+		"other_pages": {
+			"https://www.google.com/search?q=Andrew+Tate&hl=en&tbm=nws&ei=-lcpZIqKDoui5NoPmIuliAQ&start=10&sa=N&filter=0&ved=2ahUKEwiK77fV_Yr-AhULEVkFHZhFCUEQ8tMDegQIAhAE",
+			"https://www.google.com/search?q=Andrew+Tate&hl=en&tbm=nws&ei=-lcpZIqKDoui5NoPmIuliAQ&start=20&sa=N&filter=0&ved=2ahUKEwiK77fV_Yr-AhULEVkFHZhFCUEQ8tMDegQIAhAG",
+			"https://www.google.com/search?q=Andrew+Tate&hl=en&tbm=nws&ei=-lcpZIqKDoui5NoPmIuliAQ&start=30&sa=N&filter=0&ved=2ahUKEwiK77fV_Yr-AhULEVkFHZhFCUEQ8tMDegQIAhAI",
+			"https://www.google.com/search?q=Andrew+Tate&hl=en&tbm=nws&ei=-lcpZIqKDoui5NoPmIuliAQ&start=40&sa=N&filter=0&ved=2ahUKEwiK77fV_Yr-AhULEVkFHZhFCUEQ8tMDegQIAhAK",
+			"https://www.google.com/search?q=Andrew+Tate&hl=en&tbm=nws&ei=-lcpZIqKDoui5NoPmIuliAQ&start=50&sa=N&filter=0&ved=2ahUKEwiK77fV_Yr-AhULEVkFHZhFCUEQ8tMDegQIAhAM",
+			"https://www.google.com/search?q=Andrew+Tate&hl=en&tbm=nws&ei=-lcpZIqKDoui5NoPmIuliAQ&start=60&sa=N&filter=0&ved=2ahUKEwiK77fV_Yr-AhULEVkFHZhFCUEQ8tMDegQIAhAO",
+			"https://www.google.com/search?q=Andrew+Tate&hl=en&tbm=nws&ei=-lcpZIqKDoui5NoPmIuliAQ&start=70&sa=N&filter=0&ved=2ahUKEwiK77fV_Yr-AhULEVkFHZhFCUEQ8tMDegQIAhAQ",
+			"https://www.google.com/search?q=Andrew+Tate&hl=en&tbm=nws&ei=-lcpZIqKDoui5NoPmIuliAQ&start=80&sa=N&filter=0&ved=2ahUKEwiK77fV_Yr-AhULEVkFHZhFCUEQ8tMDegQIAhAS",
+			"https://www.google.com/search?q=Andrew+Tate&hl=en&tbm=nws&ei=-lcpZIqKDoui5NoPmIuliAQ&start=90&sa=N&filter=0&ved=2ahUKEwiK77fV_Yr-AhULEVkFHZhFCUEQ8tMDegQIAhAU"
+		}
+	},
