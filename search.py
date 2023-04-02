@@ -72,9 +72,8 @@ def search_google(query, search_type=''):
 
 	# Extract relevant result information based on search_type
 	results_list = []
-	result_info = {}
-	
 	for result in search_results:
+		result_info = {}
 		for key in result_keys:
 			if key in result:
 				result_info[key] = result[key]
@@ -82,4 +81,4 @@ def search_google(query, search_type=''):
 		print(result_info, "\n")
 
 	total_results = len(search_results)
-	return {"total_results": total_results, "results": result_info}
+	return 0
