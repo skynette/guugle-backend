@@ -1,6 +1,13 @@
 ## Guugle Backend
 This is the backend for Guugle, a search engine API clone of Google Search. It is built with FastAPI and provides endpoints for searching, as well as indexing pages for searching.
 
+![image](https://user-images.githubusercontent.com/29153968/229352678-4ec37ecf-7cf1-4c8b-b374-e1e8cee2b927.png)
+sample request
+
+![image](https://user-images.githubusercontent.com/29153968/229352701-f068e2fe-510c-4a88-a4a0-47904668310e.png)
+sample response
+
+
 ### Features
 Search engine API
 
