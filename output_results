@@ -1,0 +1,1419 @@
+{
+    "search_metadata": {
+        "id": "64295d3e0ead415966d362df",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/4cf32aa98fb6b129/64295d3e0ead415966d362df.json",
+        "created_at": "2023-04-02 10:47:26 UTC",
+        "processed_at": "2023-04-02 10:47:26 UTC",
+        "google_url": "https://www.google.com/search?q=Andrew+Tate&oq=Andrew+Tate&num=10&tbm=isch&filter=0&sourceid=chrome&ie=UTF-8",
+        "raw_html_file": "https://serpapi.com/searches/4cf32aa98fb6b129/64295d3e0ead415966d362df.html",
+        "total_time_taken": 0.84
+    },
+    "search_parameters": {
+        "engine": "google",
+        "q": "Andrew Tate",
+        "google_domain": "google.com",
+        "num": "10",
+        "ijn": "0",
+        "device": "desktop",
+        "tbm": "isch",
+        "filter": "0"
+    },
+    "search_information": {
+        "image_results_state": "Results for exact spelling",
+        "query_displayed": "Andrew Tate",
+        "menu_items": [
+            {
+                "position": 1,
+                "title": "All",
+                "link": "https://www.google.com/search?q=Andrew+Tate&source=lmns&hl=en-US&sa=X&ved=2ahUKEwjN16TYgov-AhXZFmIAHZDMCTMQ_AUoAHoECAEQAA"
+            },
+            {
+                "position": 2,
+                "title": "News",
+                "link": "https://www.google.com/search?q=Andrew+Tate&source=lmns&tbm=nws&hl=en-US&sa=X&ved=2ahUKEwjN16TYgov-AhXZFmIAHZDMCTMQ_AUoAXoECAEQAQ",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&filter=0&google_domain=google.com&hl=en-US&ijn=0&num=10&q=Andrew+Tate&tbm=nws"
+            },
+            {
+                "position": 3,
+                "title": "Images"
+            },
+            {
+                "position": 4,
+                "title": "Videos",
+                "link": "https://www.google.com/search?q=Andrew+Tate&source=lmns&tbm=vid&hl=en-US&sa=X&ved=2ahUKEwjN16TYgov-AhXZFmIAHZDMCTMQ_AUoA3oECAEQAw",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&filter=0&google_domain=google.com&hl=en-US&ijn=0&num=10&q=Andrew+Tate&tbm=vid"
+            },
+            {
+                "position": 5,
+                "title": "Shopping",
+                "link": "https://www.google.com/search?q=Andrew+Tate&source=lmns&tbm=shop&hl=en-US&sa=X&ved=2ahUKEwjN16TYgov-AhXZFmIAHZDMCTMQ_AUoBHoECAEQBA",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&filter=0&google_domain=google.com&hl=en-US&ijn=0&num=10&q=Andrew+Tate&tbm=shop"
+            }
+        ]
+    },
+    "suggested_searches": [
+        {
+            "name": "car",
+            "link": "https://www.google.com/search?q=Andrew+Tate&tbm=isch&chips=q:andrew+tate,g_1:car:rDCp8q129aI%3D&hl=en-US&sa=X&ved=2ahUKEwjN16TYgov-AhXZFmIAHZDMCTMQ4lYoAHoECAEQIg",
+            "chips": "q:andrew+tate,g_1:car:rDCp8q129aI%3D",
+            "serpapi_link": "https://serpapi.com/search.json?chips=q%3Aandrew%2Btate%2Cg_1%3Acar%3ArDCp8q129aI%253D&device=desktop&engine=google&filter=0&google_domain=google.com&ijn=0&num=10&q=Andrew+Tate&tbm=isch",
+            "thumbnail": "https://serpapi.com/searches/64295d3e0ead415966d362df/images/2c01ce66e6b3cba89980e139d443a24cc34fa2c65d96bc9567186b03435f33f6.jpeg"
+        },
+        {
+            "name": "house",
+            "link": "https://www.google.com/search?q=Andrew+Tate&tbm=isch&chips=q:andrew+tate,g_1:house:3hEd1mn4dlg%3D&hl=en-US&sa=X&ved=2ahUKEwjN16TYgov-AhXZFmIAHZDMCTMQ4lYoAXoECAEQJA",
+            "chips": "q:andrew+tate,g_1:house:3hEd1mn4dlg%3D",
+            "serpapi_link": "https://serpapi.com/search.json?chips=q%3Aandrew%2Btate%2Cg_1%3Ahouse%3A3hEd1mn4dlg%253D&device=desktop&engine=google&filter=0&google_domain=google.com&ijn=0&num=10&q=Andrew+Tate&tbm=isch",
+            "thumbnail": "https://serpapi.com/searches/64295d3e0ead415966d362df/images/2c01ce66e6b3cba89980e139d443a24cec56e314877bce60f540ecf6e60f2dda.jpeg"
+        },
+        {
+            "name": "instagram",
+            "link": "https://www.google.com/search?q=Andrew+Tate&tbm=isch&chips=q:andrew+tate,g_1:instagram:Q5W_EQ0ig38%3D&hl=en-US&sa=X&ved=2ahUKEwjN16TYgov-AhXZFmIAHZDMCTMQ4lYoAnoECAEQJg",
+            "chips": "q:andrew+tate,g_1:instagram:Q5W_EQ0ig38%3D",
+            "serpapi_link": "https://serpapi.com/search.json?chips=q%3Aandrew%2Btate%2Cg_1%3Ainstagram%3AQ5W_EQ0ig38%253D&device=desktop&engine=google&filter=0&google_domain=google.com&ijn=0&num=10&q=Andrew+Tate&tbm=isch",
+            "thumbnail": "https://serpapi.com/searches/64295d3e0ead415966d362df/images/2c01ce66e6b3cba89980e139d443a24c70fa8592463d38c534d945acaf848f97.jpeg"
+        },
+        {
+            "name": "bugatti chiron",
+            "link": "https://www.google.com/search?q=Andrew+Tate&tbm=isch&chips=q:andrew+tate,g_1:bugatti+chiron:63wCnVkR1F0%3D&hl=en-US&sa=X&ved=2ahUKEwjN16TYgov-AhXZFmIAHZDMCTMQ4lYoA3oECAEQKA",
+            "chips": "q:andrew+tate,g_1:bugatti+chiron:63wCnVkR1F0%3D",
+            "serpapi_link": "https://serpapi.com/search.json?chips=q%3Aandrew%2Btate%2Cg_1%3Abugatti%2Bchiron%3A63wCnVkR1F0%253D&device=desktop&engine=google&filter=0&google_domain=google.com&ijn=0&num=10&q=Andrew+Tate&tbm=isch",
+            "thumbnail": "https://serpapi.com/searches/64295d3e0ead415966d362df/images/2c01ce66e6b3cba89980e139d443a24caa09993a2eafadbd5c5d2eb24260025a.jpeg"
+        },
+        {
+            "name": "wallpaper",
+            "link": "https://www.google.com/search?q=Andrew+Tate&tbm=isch&chips=q:andrew+tate,g_1:wallpaper:EK5ufaOCt8M%3D&hl=en-US&sa=X&ved=2ahUKEwjN16TYgov-AhXZFmIAHZDMCTMQ4lYoBHoECAEQKg",
+            "chips": "q:andrew+tate,g_1:wallpaper:EK5ufaOCt8M%3D",
+            "serpapi_link": "https://serpapi.com/search.json?chips=q%3Aandrew%2Btate%2Cg_1%3Awallpaper%3AEK5ufaOCt8M%253D&device=desktop&engine=google&filter=0&google_domain=google.com&ijn=0&num=10&q=Andrew+Tate&tbm=isch",
+            "thumbnail": "https://serpapi.com/searches/64295d3e0ead415966d362df/images/2c01ce66e6b3cba89980e139d443a24ce5a0648834c79b85bd08a02c8f5a3bb2.jpeg"
+        },
+        {
+            "name": "height",
+            "link": "https://www.google.com/search?q=Andrew+Tate&tbm=isch&chips=q:andrew+tate,g_1:height:5bgrTe9NKVg%3D&hl=en-US&sa=X&ved=2ahUKEwjN16TYgov-AhXZFmIAHZDMCTMQ4lYoBXoECAEQLA",
+            "chips": "q:andrew+tate,g_1:height:5bgrTe9NKVg%3D",
+            "serpapi_link": "https://serpapi.com/search.json?chips=q%3Aandrew%2Btate%2Cg_1%3Aheight%3A5bgrTe9NKVg%253D&device=desktop&engine=google&filter=0&google_domain=google.com&ijn=0&num=10&q=Andrew+Tate&tbm=isch",
+            "thumbnail": "https://serpapi.com/searches/64295d3e0ead415966d362df/images/2c01ce66e6b3cba89980e139d443a24c05ead68810a05c4f1a8ce258fda31103.jpeg"
+        },
+        {
+            "name": "chess",
+            "link": "https://www.google.com/search?q=Andrew+Tate&tbm=isch&chips=q:andrew+tate,g_1:chess:8plMY3dqvOU%3D&hl=en-US&sa=X&ved=2ahUKEwjN16TYgov-AhXZFmIAHZDMCTMQ4lYoBnoECAEQLg",
+            "chips": "q:andrew+tate,g_1:chess:8plMY3dqvOU%3D",
+            "serpapi_link": "https://serpapi.com/search.json?chips=q%3Aandrew%2Btate%2Cg_1%3Achess%3A8plMY3dqvOU%253D&device=desktop&engine=google&filter=0&google_domain=google.com&ijn=0&num=10&q=Andrew+Tate&tbm=isch",
+            "thumbnail": "https://serpapi.com/searches/64295d3e0ead415966d362df/images/2c01ce66e6b3cba89980e139d443a24c97a66543dcd30d2ba87d867d24bb75e4.jpeg"
+        },
+        {
+            "name": "podcast",
+            "link": "https://www.google.com/search?q=Andrew+Tate&tbm=isch&chips=q:andrew+tate,g_1:podcast:0k3GMrU6dXI%3D&hl=en-US&sa=X&ved=2ahUKEwjN16TYgov-AhXZFmIAHZDMCTMQ4lYoB3oECAEQMA",
+            "chips": "q:andrew+tate,g_1:podcast:0k3GMrU6dXI%3D",
+            "serpapi_link": "https://serpapi.com/search.json?chips=q%3Aandrew%2Btate%2Cg_1%3Apodcast%3A0k3GMrU6dXI%253D&device=desktop&engine=google&filter=0&google_domain=google.com&ijn=0&num=10&q=Andrew+Tate&tbm=isch",
+            "thumbnail": "https://serpapi.com/searches/64295d3e0ead415966d362df/images/2c01ce66e6b3cba89980e139d443a24c78fc5c82acb8f87385556608f95dccb0.jpeg"
+        },
+        {
+            "name": "sunglasses",
+            "link": "https://www.google.com/search?q=Andrew+Tate&tbm=isch&chips=q:andrew+tate,g_1:sunglasses:HlTIjfOtybo%3D&hl=en-US&sa=X&ved=2ahUKEwjN16TYgov-AhXZFmIAHZDMCTMQ4lYoCHoECAEQMg",
+            "chips": "q:andrew+tate,g_1:sunglasses:HlTIjfOtybo%3D",
+            "serpapi_link": "https://serpapi.com/search.json?chips=q%3Aandrew%2Btate%2Cg_1%3Asunglasses%3AHlTIjfOtybo%253D&device=desktop&engine=google&filter=0&google_domain=google.com&ijn=0&num=10&q=Andrew+Tate&tbm=isch",
+            "thumbnail": "https://serpapi.com/searches/64295d3e0ead415966d362df/images/2c01ce66e6b3cba89980e139d443a24c90a2bf93952476d3a777b7aed86a2a6d.jpeg"
+        },
+        {
+            "name": "age",
+            "link": "https://www.google.com/search?q=Andrew+Tate&tbm=isch&chips=q:andrew+tate,g_1:age:IfGJTlNIB-k%3D&hl=en-US&sa=X&ved=2ahUKEwjN16TYgov-AhXZFmIAHZDMCTMQ4lYoCXoECAEQNA",
+            "chips": "q:andrew+tate,g_1:age:IfGJTlNIB-k%3D",
+            "serpapi_link": "https://serpapi.com/search.json?chips=q%3Aandrew%2Btate%2Cg_1%3Aage%3AIfGJTlNIB-k%253D&device=desktop&engine=google&filter=0&google_domain=google.com&ijn=0&num=10&q=Andrew+Tate&tbm=isch",
+            "thumbnail": "https://serpapi.com/searches/64295d3e0ead415966d362df/images/2c01ce66e6b3cba89980e139d443a24c162c7cb4983b846044ec32e86b9f3286.jpeg"
+        },
+        {
+            "name": "high school",
+            "link": "https://www.google.com/search?q=Andrew+Tate&tbm=isch&chips=q:andrew+tate,g_1:high+school:aEmw7JrSXvc%3D&hl=en-US&sa=X&ved=2ahUKEwjN16TYgov-AhXZFmIAHZDMCTMQ4lYoCnoECAEQNg",
+            "chips": "q:andrew+tate,g_1:high+school:aEmw7JrSXvc%3D",
+            "serpapi_link": "https://serpapi.com/search.json?chips=q%3Aandrew%2Btate%2Cg_1%3Ahigh%2Bschool%3AaEmw7JrSXvc%253D&device=desktop&engine=google&filter=0&google_domain=google.com&ijn=0&num=10&q=Andrew+Tate&tbm=isch",
+            "thumbnail": "https://serpapi.com/searches/64295d3e0ead415966d362df/images/2c01ce66e6b3cba89980e139d443a24c705faf89c7bdaa00859e507d1d4bcedb.jpeg"
+        },
+        {
+            "name": "aston martin",
+            "link": "https://www.google.com/search?q=Andrew+Tate&tbm=isch&chips=q:andrew+tate,g_1:aston+martin:cY7bUHR1qg8%3D&hl=en-US&sa=X&ved=2ahUKEwjN16TYgov-AhXZFmIAHZDMCTMQ4lYoC3oECAEQOA",
+            "chips": "q:andrew+tate,g_1:aston+martin:cY7bUHR1qg8%3D",
+            "serpapi_link": "https://serpapi.com/search.json?chips=q%3Aandrew%2Btate%2Cg_1%3Aaston%2Bmartin%3AcY7bUHR1qg8%253D&device=desktop&engine=google&filter=0&google_domain=google.com&ijn=0&num=10&q=Andrew+Tate&tbm=isch",
+            "thumbnail": "https://serpapi.com/searches/64295d3e0ead415966d362df/images/2c01ce66e6b3cba89980e139d443a24c02d62e1db337ec827afb350675cd3ffb.jpeg"
+        },
+        {
+            "name": "jacket",
+            "link": "https://www.google.com/search?q=Andrew+Tate&tbm=isch&chips=q:andrew+tate,g_1:jacket:pyEeAAvxa-s%3D&hl=en-US&sa=X&ved=2ahUKEwjN16TYgov-AhXZFmIAHZDMCTMQ4lYoDHoECAEQOg",
+            "chips": "q:andrew+tate,g_1:jacket:pyEeAAvxa-s%3D",
+            "serpapi_link": "https://serpapi.com/search.json?chips=q%3Aandrew%2Btate%2Cg_1%3Ajacket%3ApyEeAAvxa-s%253D&device=desktop&engine=google&filter=0&google_domain=google.com&ijn=0&num=10&q=Andrew+Tate&tbm=isch",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuZ6uIl0IZFrtqT4VcJ7uL-FkLSAm-XzvELy3_gholB0BL5byw8CB6UBU&usqp=CAU"
+        },
+        {
+            "name": "business",
+            "link": "https://www.google.com/search?q=Andrew+Tate&tbm=isch&chips=q:andrew+tate,g_1:business:_wkFlznRFmQ%3D&hl=en-US&sa=X&ved=2ahUKEwjN16TYgov-AhXZFmIAHZDMCTMQ4lYoDXoECAEQPA",
+            "chips": "q:andrew+tate,g_1:business:_wkFlznRFmQ%3D",
+            "serpapi_link": "https://serpapi.com/search.json?chips=q%3Aandrew%2Btate%2Cg_1%3Abusiness%3A_wkFlznRFmQ%253D&device=desktop&engine=google&filter=0&google_domain=google.com&ijn=0&num=10&q=Andrew+Tate&tbm=isch",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEtOMSTM62EoHl1WH5ZuWTbDnRckc7q94w0SgL8XCkTDG8njv1PoacdPA&usqp=CAU"
+        },
+        {
+            "name": "boat",
+            "link": "https://www.google.com/search?q=Andrew+Tate&tbm=isch&chips=q:andrew+tate,g_1:boat:mHMwsiAYLX8%3D&hl=en-US&sa=X&ved=2ahUKEwjN16TYgov-AhXZFmIAHZDMCTMQ4lYoDnoECAEQPg",
+            "chips": "q:andrew+tate,g_1:boat:mHMwsiAYLX8%3D",
+            "serpapi_link": "https://serpapi.com/search.json?chips=q%3Aandrew%2Btate%2Cg_1%3Aboat%3AmHMwsiAYLX8%253D&device=desktop&engine=google&filter=0&google_domain=google.com&ijn=0&num=10&q=Andrew+Tate&tbm=isch",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbkhbHosVVKhXsnUHFhliPJTPf6am9PFq5CLTvLHCYs4cZfKdInAwR1zc&usqp=CAU"
+        },
+        {
+            "name": "next",
+            "link": "https://www.google.com/search?q=Andrew+Tate&tbm=isch&chips=q:andrew+tate,g_1:next:w-Dal4Urlk4%3D&hl=en-US&sa=X&ved=2ahUKEwjN16TYgov-AhXZFmIAHZDMCTMQ4lYoD3oECAEQQA",
+            "chips": "q:andrew+tate,g_1:next:w-Dal4Urlk4%3D",
+            "serpapi_link": "https://serpapi.com/search.json?chips=q%3Aandrew%2Btate%2Cg_1%3Anext%3Aw-Dal4Urlk4%253D&device=desktop&engine=google&filter=0&google_domain=google.com&ijn=0&num=10&q=Andrew+Tate&tbm=isch",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwQNowvJcWdX5blUkd3kjr982y1cf3J9amBLn9zmnnMRISenVYeRUJesM&usqp=CAU"
+        },
+        {
+            "name": "driver",
+            "link": "https://www.google.com/search?q=Andrew+Tate&tbm=isch&chips=q:andrew+tate,g_1:driver:aamjijJq_6c%3D&hl=en-US&sa=X&ved=2ahUKEwjN16TYgov-AhXZFmIAHZDMCTMQ4lYoEHoECAEQQg",
+            "chips": "q:andrew+tate,g_1:driver:aamjijJq_6c%3D",
+            "serpapi_link": "https://serpapi.com/search.json?chips=q%3Aandrew%2Btate%2Cg_1%3Adriver%3AaamjijJq_6c%253D&device=desktop&engine=google&filter=0&google_domain=google.com&ijn=0&num=10&q=Andrew+Tate&tbm=isch",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlL0O6zQyGIKDiiwwcfk6Nwi-RWD9O9DHKENJSzd0F94SS2M0n0KTY298&usqp=CAU"
+        },
+        {
+            "name": "record",
+            "link": "https://www.google.com/search?q=Andrew+Tate&tbm=isch&chips=q:andrew+tate,g_1:record:TJ3YgC7_n2g%3D&hl=en-US&sa=X&ved=2ahUKEwjN16TYgov-AhXZFmIAHZDMCTMQ4lYoEXoECAEQRA",
+            "chips": "q:andrew+tate,g_1:record:TJ3YgC7_n2g%3D",
+            "serpapi_link": "https://serpapi.com/search.json?chips=q%3Aandrew%2Btate%2Cg_1%3Arecord%3ATJ3YgC7_n2g%253D&device=desktop&engine=google&filter=0&google_domain=google.com&ijn=0&num=10&q=Andrew+Tate&tbm=isch",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRp_ZJ9bzEPjy0CxK_Uhzq0sLDHkeIc56bUJ_yD6e2ncsta0XUidq58t5c&usqp=CAU"
+        },
+        {
+            "name": "casino",
+            "link": "https://www.google.com/search?q=Andrew+Tate&tbm=isch&chips=q:andrew+tate,g_1:casino:WMZTjnzxB_g%3D&hl=en-US&sa=X&ved=2ahUKEwjN16TYgov-AhXZFmIAHZDMCTMQ4lYoEnoECAEQRg",
+            "chips": "q:andrew+tate,g_1:casino:WMZTjnzxB_g%3D",
+            "serpapi_link": "https://serpapi.com/search.json?chips=q%3Aandrew%2Btate%2Cg_1%3Acasino%3AWMZTjnzxB_g%253D&device=desktop&engine=google&filter=0&google_domain=google.com&ijn=0&num=10&q=Andrew+Tate&tbm=isch",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSSyhICbI35CbzXMRJKAo9K_PlfSS8eD9JIAz86gAiwctK3KH2J0rO1K4&usqp=CAU"
+        },
+        {
+            "name": "iphone",
+            "link": "https://www.google.com/search?q=Andrew+Tate&tbm=isch&chips=q:andrew+tate,g_1:iphone:vabmP6mCLQg%3D&hl=en-US&sa=X&ved=2ahUKEwjN16TYgov-AhXZFmIAHZDMCTMQ4lYoE3oECAEQSA",
+            "chips": "q:andrew+tate,g_1:iphone:vabmP6mCLQg%3D",
+            "serpapi_link": "https://serpapi.com/search.json?chips=q%3Aandrew%2Btate%2Cg_1%3Aiphone%3AvabmP6mCLQg%253D&device=desktop&engine=google&filter=0&google_domain=google.com&ijn=0&num=10&q=Andrew+Tate&tbm=isch",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqngT6zuUYV1Jpa7S6CcaMGOJWPwbIace8zuyMjR4wITTjNnADhSy50B0&usqp=CAU"
+        },
+        {
+            "name": "name",
+            "link": "https://www.google.com/search?q=Andrew+Tate&tbm=isch&chips=q:andrew+tate,g_1:name:jU77Dc7U174%3D&hl=en-US&sa=X&ved=2ahUKEwjN16TYgov-AhXZFmIAHZDMCTMQ4lYoFHoECAEQSg",
+            "chips": "q:andrew+tate,g_1:name:jU77Dc7U174%3D",
+            "serpapi_link": "https://serpapi.com/search.json?chips=q%3Aandrew%2Btate%2Cg_1%3Aname%3AjU77Dc7U174%253D&device=desktop&engine=google&filter=0&google_domain=google.com&ijn=0&num=10&q=Andrew+Tate&tbm=isch",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIzR_dvlP13M506xa4oOWS2oz1s0ty1m6O5i3yf_TJ-X23miDOGSdwzLk&usqp=CAU"
+        },
+        {
+            "name": "cobra",
+            "link": "https://www.google.com/search?q=Andrew+Tate&tbm=isch&chips=q:andrew+tate,g_1:cobra:NqBE87EnCO0%3D&hl=en-US&sa=X&ved=2ahUKEwjN16TYgov-AhXZFmIAHZDMCTMQ4lYoFXoECAEQTA",
+            "chips": "q:andrew+tate,g_1:cobra:NqBE87EnCO0%3D",
+            "serpapi_link": "https://serpapi.com/search.json?chips=q%3Aandrew%2Btate%2Cg_1%3Acobra%3ANqBE87EnCO0%253D&device=desktop&engine=google&filter=0&google_domain=google.com&ijn=0&num=10&q=Andrew+Tate&tbm=isch",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbv09wHbvKIekU9Kkxz7i8G1x0t_pFz88yqtbBVveKQmZN76MkUxyMDT4&usqp=CAU"
+        },
+        {
+            "name": "gta",
+            "link": "https://www.google.com/search?q=Andrew+Tate&tbm=isch&chips=q:andrew+tate,g_1:gta:3F1mzHQCzVk%3D&hl=en-US&sa=X&ved=2ahUKEwjN16TYgov-AhXZFmIAHZDMCTMQ4lYoFnoECAEQTg",
+            "chips": "q:andrew+tate,g_1:gta:3F1mzHQCzVk%3D",
+            "serpapi_link": "https://serpapi.com/search.json?chips=q%3Aandrew%2Btate%2Cg_1%3Agta%3A3F1mzHQCzVk%253D&device=desktop&engine=google&filter=0&google_domain=google.com&ijn=0&num=10&q=Andrew+Tate&tbm=isch",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwFvcUOFMakZ1GT_8eMumnrL6ehk4igDL9HybLXkjANNogBwGKkwQxmXw&usqp=CAU"
+        },
+        {
+            "name": "gym",
+            "link": "https://www.google.com/search?q=Andrew+Tate&tbm=isch&chips=q:andrew+tate,g_1:gym:G95rbFg4pvc%3D&hl=en-US&sa=X&ved=2ahUKEwjN16TYgov-AhXZFmIAHZDMCTMQ4lYoF3oECAEQUA",
+            "chips": "q:andrew+tate,g_1:gym:G95rbFg4pvc%3D",
+            "serpapi_link": "https://serpapi.com/search.json?chips=q%3Aandrew%2Btate%2Cg_1%3Agym%3AG95rbFg4pvc%253D&device=desktop&engine=google&filter=0&google_domain=google.com&ijn=0&num=10&q=Andrew+Tate&tbm=isch",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMHBRBlhu2NdvzDGET3j5blc0xuKnuc85CWYu1s3bMZtkIw4V9TRf67Os&usqp=CAU"
+        },
+        {
+            "name": "fortnite",
+            "link": "https://www.google.com/search?q=Andrew+Tate&tbm=isch&chips=q:andrew+tate,g_1:fortnite:USvRWwBMkJc%3D&hl=en-US&sa=X&ved=2ahUKEwjN16TYgov-AhXZFmIAHZDMCTMQ4lYoGHoECAEQUg",
+            "chips": "q:andrew+tate,g_1:fortnite:USvRWwBMkJc%3D",
+            "serpapi_link": "https://serpapi.com/search.json?chips=q%3Aandrew%2Btate%2Cg_1%3Afortnite%3AUSvRWwBMkJc%253D&device=desktop&engine=google&filter=0&google_domain=google.com&ijn=0&num=10&q=Andrew+Tate&tbm=isch",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8k6Xp-UcsBlBkz38FjdM3n_Mfgbu2P5YxWDaMezrAYBQ1xV8JZhsSz1Q&usqp=CAU"
+        },
+        {
+            "name": "top g",
+            "link": "https://www.google.com/search?q=Andrew+Tate&tbm=isch&chips=q:andrew+tate,g_1:top+g:neca_YyAzGE%3D&hl=en-US&sa=X&ved=2ahUKEwjN16TYgov-AhXZFmIAHZDMCTMQ4lYoGXoECAEQVA",
+            "chips": "q:andrew+tate,g_1:top+g:neca_YyAzGE%3D",
+            "serpapi_link": "https://serpapi.com/search.json?chips=q%3Aandrew%2Btate%2Cg_1%3Atop%2Bg%3Aneca_YyAzGE%253D&device=desktop&engine=google&filter=0&google_domain=google.com&ijn=0&num=10&q=Andrew+Tate&tbm=isch",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEa8LtdoTmYHnOg_v74VsZ5e2EvZF2fDUn2BQqy-kqaTWwBUJ1RT8Ur6k&usqp=CAU"
+        },
+        {
+            "name": "yacht",
+            "link": "https://www.google.com/search?q=Andrew+Tate&tbm=isch&chips=q:andrew+tate,g_1:yacht:UwWiklcCVsQ%3D&hl=en-US&sa=X&ved=2ahUKEwjN16TYgov-AhXZFmIAHZDMCTMQ4lYoGnoECAEQVg",
+            "chips": "q:andrew+tate,g_1:yacht:UwWiklcCVsQ%3D",
+            "serpapi_link": "https://serpapi.com/search.json?chips=q%3Aandrew%2Btate%2Cg_1%3Ayacht%3AUwWiklcCVsQ%253D&device=desktop&engine=google&filter=0&google_domain=google.com&ijn=0&num=10&q=Andrew+Tate&tbm=isch",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZe5lKHPrLeVD1AqY7T0Yk2WYg98moUFX0RJ9pY17X6675HP-WZIogmEE&usqp=CAU"
+        }
+    ],
+    "images_results": [
+        {
+            "position": 1,
+            "thumbnail": "https://serpapi.com/searches/64295d3e0ead415966d362df/images/30284c404137cac6583b0f0bf89e4a2ee8faead8407d1772026a7992d5031ac4.jpeg",
+            "source": "Wikipedia",
+            "title": "Andrew Tate - Wikipedia",
+            "link": "https://en.wikipedia.org/wiki/Andrew_Tate",
+            "original": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Andrew_Tate_on_%27Anything_Goes_With_James_English%27_in_2021.jpg/640px-Andrew_Tate_on_%27Anything_Goes_With_James_English%27_in_2021.jpg",
+            "original_width": 640,
+            "original_height": 852,
+            "is_product": false
+        },
+        {
+            "position": 2,
+            "thumbnail": "https://serpapi.com/searches/64295d3e0ead415966d362df/images/30284c404137cac6529dc73aac1159ca8311ca4ea939afed060ff81714bd614e.jpeg",
+            "source": "Deadline",
+            "title": "Andrew Tate Posts Message From House Arrest After Release From Jail \u2013  Deadline",
+            "link": "https://deadline.com/2023/04/andrew-tate-cryptic-message-clarity-of-thought-house-arrest-after-release-from-jail-in-romania-1235315339/",
+            "tag": "23 hours ago",
+            "original": "https://deadline.com/wp-content/uploads/2023/04/Screenshot-2023-04-01-at-12.07.43.png?w=681&h=383&crop=1",
+            "original_width": 681,
+            "original_height": 383,
+            "is_product": true
+        },
+        {
+            "position": 3,
+            "thumbnail": "https://serpapi.com/searches/64295d3e0ead415966d362df/images/30284c404137cac600d2d13070f39c3e866a4b3abc12b7a084100a46f62552bc.jpeg",
+            "source": "NBC News",
+            "title": "Divisive influencer Andrew Tate and brother to be released from detention  in Romania",
+            "link": "https://www.nbcnews.com/news/world/controverisal-influencer-andrew-tate-brother-released-detention-romani-rcna77695",
+            "original": "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2023-01/230120-andrew-tate-mn-0925-ce5034.jpg",
+            "original_width": 2500,
+            "original_height": 1692,
+            "is_product": false
+        },
+        {
+            "position": 4,
+            "thumbnail": "https://serpapi.com/searches/64295d3e0ead415966d362df/images/30284c404137cac68b51671c6732909f5d81faa216e637341856455ca31faf82.jpeg",
+            "source": "NDTV.com",
+            "title": "Influencer Andrew Tate To Move From Jail To House Arrest: Romania Court",
+            "link": "https://www.ndtv.com/world-news/influencer-andrew-tate-to-move-from-jail-to-house-arrest-romania-court-3910907",
+            "original": "https://c.ndtvimg.com/2022-12/jnj4n0ag_andrew-tate_625x300_31_December_22.jpg?im=Resize=(1230,900)",
+            "original_width": 1230,
+            "original_height": 781,
+            "is_product": false
+        },
+        {
+            "position": 5,
+            "thumbnail": "https://serpapi.com/searches/64295d3e0ead415966d362df/images/30284c404137cac6ceda488b66dd982a60f27f53225d3b7eae44240c9c09e093.jpeg",
+            "source": "News.com.au",
+            "title": "Andrew Tate: Bizarre Twitter video after he was released from jail, placed  on house arrest | news.com.au \u2014 Australia's leading news site",
+            "link": "https://www.news.com.au/lifestyle/real-life/news-life/andrew-tate-posts-bizarre-video-after-being-released-from-jail/news-story/751b09df3be373f5871b9416dd779ee6",
+            "tag": "52 minutes ago",
+            "original": "https://content.api.news/v3/images/bin/e077120b51b464e1a39f7a18d967a835",
+            "original_width": 1279,
+            "original_height": 719,
+            "is_product": true
+        },
+        {
+            "position": 6,
+            "thumbnail": "https://serpapi.com/searches/64295d3e0ead415966d362df/images/30284c404137cac6d474bc6a05aa4fa5f535d5dce6b47af371c868feaef169ab.jpeg",
+            "source": "Al Jazeera",
+            "title": "Online influencer Andrew Tate moved to house arrest in Romania | News | Al  Jazeera",
+            "link": "https://www.aljazeera.com/news/2023/4/1/online-influencer-andrew-tate-moved-to-house-arrest-in-romania",
+            "tag": "Video",
+            "original": "https://www.aljazeera.com/wp-content/uploads/2023/04/AP23090817655255.jpg?resize=770%2C513&quality=80",
+            "original_width": 770,
+            "original_height": 513,
+            "is_product": true
+        },
+        {
+            "position": 7,
+            "thumbnail": "https://serpapi.com/searches/64295d3e0ead415966d362df/images/30284c404137cac6052ac631294e2990dc90753098220e2d25208c0078a98b17.jpeg",
+            "source": "British GQ",
+            "title": "How Andrew Tate built an army of lonely, angry men | British GQ",
+            "link": "https://www.gq-magazine.co.uk/culture/article/andrew-tate-tiktok-fame-men-2022",
+            "original": "https://media.gq-magazine.co.uk/photos/62fa37b64c951e9b75502e9c/1:1/w_1080,h_1080,c_limit/Andrew-tate-e.jpg",
+            "original_width": 1080,
+            "original_height": 1080,
+            "is_product": false
+        },
+        {
+            "position": 8,
+            "thumbnail": "https://serpapi.com/searches/64295d3e0ead415966d362df/images/30284c404137cac63a061d8fc3b107db97b957155ee28d3615cef220a3da2e20.jpeg",
+            "source": "The Guardian",
+            "title": "Inside the violent, misogynistic world of TikTok's new star, Andrew Tate |  TikTok | The Guardian",
+            "link": "https://www.theguardian.com/technology/2022/aug/06/andrew-tate-violent-misogynistic-world-of-tiktok-new-star",
+            "original": "https://i.guim.co.uk/img/media/5916799091dc781e673bc0389b06ed7c203ce13a/0_0_2419_1451/master/2419.jpg?width=1200&quality=85&auto=format&fit=max&s=cb56071ce938baf2c398d4ad76f2eb31",
+            "original_width": 1200,
+            "original_height": 720,
+            "is_product": false
+        },
+        {
+            "position": 9,
+            "thumbnail": "https://serpapi.com/searches/64295d3e0ead415966d362df/images/30284c404137cac6295007bd5723776ea6382da9d93c57c1d49d1f0d643622af.jpeg",
+            "source": "RTE",
+            "title": "Andrew Tate moved to house arrest after court ruling",
+            "link": "https://www.rte.ie/news/2023/0401/1367639-andrew-tate/",
+            "tag": "1 day ago",
+            "original": "https://img.rasset.ie/001db4c9-500.jpg",
+            "original_width": 500,
+            "original_height": 281,
+            "is_product": true
+        },
+        {
+            "position": 10,
+            "thumbnail": "https://serpapi.com/searches/64295d3e0ead415966d362df/images/30284c404137cac604fe997445a5d9649c402662c00407e2ffafd9e3eb7873a5.jpeg",
+            "source": "RNZ",
+            "title": "Andrew Tate banned from Instagram and Facebook under policies on 'dangerous  organisations and individuals' | RNZ News",
+            "link": "https://www.rnz.co.nz/news/world/473237/andrew-tate-banned-from-instagram-and-facebook-under-policies-on-dangerous-organisations-and-individuals",
+            "original": "https://rnz-ressh.cloudinary.com/image/upload/s--WH4zBww5--/ar_16:10,c_fill,f_auto,g_auto,q_auto,w_1050/4LMON2O_49476_16599605286420_1920_jpg",
+            "original_width": 1050,
+            "original_height": 656,
+            "is_product": false
+        },
+        {
+            "position": 11,
+            "thumbnail": "https://serpapi.com/searches/64295d3e0ead415966d362df/images/30284c404137cac6529dc73aac1159ca89c715ae89be4ea672ed4c53a0eeaf72.jpeg",
+            "source": "BBC",
+            "title": "Andrew Tate: Brothers' custody in Romania extended by another month - BBC  News",
+            "link": "https://www.bbc.co.uk/news/world-europe-65041668",
+            "original": "https://ichef.bbci.co.uk/news/976/cpsprodpb/E004/production/_129084375_capture.png",
+            "original_width": 976,
+            "original_height": 549,
+            "is_product": false
+        },
+        {
+            "position": 12,
+            "thumbnail": "https://serpapi.com/searches/64295d3e0ead415966d362df/images/30284c404137cac6529dc73aac1159ca06d1885d917876b71525afd5aa5e69cf.jpeg",
+            "source": "MARCA",
+            "title": "Andrew Tate 'emotional' in first public speech since release, reveals plans  | Marca",
+            "link": "https://www.marca.com/en/lifestyle/celebrities/2023/04/01/64275b6a268e3e2a4b8b45ac.html",
+            "original": "https://ak.uecdn.es/p/110/thumbnail/entry_id/0_12k64d68/width/660/cache_st/1680303523/type/2/bgcolor/000000/0_12k64d68.jpg",
+            "original_width": 660,
+            "original_height": 371,
+            "is_product": false
+        },
+        {
+            "position": 13,
+            "thumbnail": "https://serpapi.com/searches/64295d3e0ead415966d362df/images/30284c404137cac6529dc73aac1159ca9ae3bcd3c0fe210414fba54a2cc5e377.jpeg",
+            "source": "ABC",
+            "title": "Booted from Facebook and Instagram, Andrew Tate is now being scrubbed from  TikTok. Is this the end for his misogyny? - ABC News",
+            "link": "https://www.abc.net.au/news/2022-08-22/misogynist-influencer-andrew-tate-is-being-scrubbed-from-tiktok/101356652",
+            "original": "https://live-production.wcms.abc-cdn.net.au/500598a4e1200a81a819db6ad2f7812e?impolicy=wcms_crop_resize&cropH=608&cropW=1080&xPos=0&yPos=1&width=862&height=485",
+            "original_width": 862,
+            "original_height": 485,
+            "is_product": false
+        },
+        {
+            "position": 14,
+            "thumbnail": "https://serpapi.com/searches/64295d3e0ead415966d362df/images/30284c404137cac6529dc73aac1159cab6851c9756139c0bc3b3d95b80865923.jpeg",
+            "source": "Khazanah | Republika Online - Republika",
+            "title": "Pengakuan Mualaf Andrew Tate yang Tengah Diuji: Islam Agama Paling Dihargai  Pengikutnya | Republika Online",
+            "link": "https://khazanah.republika.co.id/berita/rrdnpw320/pengakuan-mualaf-andrew-tate-yang-tengah-diuji-islam-agama-paling-dihargai-pengikutnya",
+            "original": "https://static.republika.co.id/uploads/images/inpicture_slide/mantan-juara-dunia-kickboxing-andrew_230104101010-302.jpg",
+            "original_width": 830,
+            "original_height": 571,
+            "is_product": false
+        },
+        {
+            "position": 15,
+            "thumbnail": "https://serpapi.com/searches/64295d3e0ead415966d362df/images/30284c404137cac6529dc73aac1159ca4648dac32b22d1b7bc3762c63d068e89.jpeg",
+            "source": "Vox",
+            "title": "Andrew Tate is banned from TikTok, Instagram, YouTube - Vox",
+            "link": "https://www.vox.com/the-goods/23318861/andrew-tate-tiktok-instagram-youtube-banned",
+            "original": "https://cdn.vox-cdn.com/thumbor/RcAdlMhw-adDQnJiVWKRPUSP10M=/0x0:2024x1038/1200x800/filters:focal(989x320:1311x642)/cdn.vox-cdn.com/uploads/chorus_image/image/71278865/Screen_Shot_2022_08_23_at_4.22.21_PM.0.png",
+            "original_width": 1200,
+            "original_height": 800,
+            "is_product": false
+        },
+        {
+            "position": 16,
+            "thumbnail": "https://serpapi.com/searches/64295d3e0ead415966d362df/images/30284c404137cac6529dc73aac1159cabbd147e45114f5ea611c0329a02ca345.jpeg",
+            "source": "MARCA",
+            "title": "Andrew Tate trolled mercilessly after manager confirms he has lung cancer |  Marca",
+            "link": "https://www.marca.com/en/lifestyle/celebrities/2023/03/04/6402c88c46163f5f6b8b45e7.html",
+            "original": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2023/03/04/16779039496838.jpg",
+            "original_width": 1980,
+            "original_height": 1320,
+            "is_product": false
+        },
+        {
+            "position": 17,
+            "thumbnail": "https://serpapi.com/searches/64295d3e0ead415966d362df/images/30284c404137cac6529dc73aac1159ca9ff1166383296b8a78b7e847f20a214a.jpeg",
+            "source": "The Australian",
+            "title": "Andrew Tate hits back at ban from Instagram and Facebook | The Australian",
+            "link": "https://www.theaustralian.com.au/the-oz/news/overreaction-or-too-late-meta-cancels-andrew-tate/news-story/6c928e47e26e085cbd346cf3cabb05c7",
+            "original": "https://content.api.news/v3/images/bin/fe07400d26c2930d8fba6d0f6f37eca1?width=1280",
+            "original_width": 1280,
+            "original_height": 720,
+            "is_product": false
+        },
+        {
+            "position": 18,
+            "thumbnail": "https://serpapi.com/searches/64295d3e0ead415966d362df/images/30284c404137cac6529dc73aac1159cae1139961ceea9b5b6bc5c044b876a605.jpeg",
+            "source": "The Independent",
+            "title": "Andrew Tate released from prison after three months and put under house  arrest | The Independent",
+            "link": "https://www.independent.co.uk/news/world/europe/andrew-tate-prison-romania-release-b2312061.html",
+            "tag": "1 day ago",
+            "original": "https://static.independent.co.uk/2023/03/31/20/newFile.jpg",
+            "original_width": 3515,
+            "original_height": 2636,
+            "is_product": true
+        },
+        {
+            "position": 19,
+            "thumbnail": "https://serpapi.com/searches/64295d3e0ead415966d362df/images/30284c404137cac6529dc73aac1159cadc6f6b4c963eb780f57df16b49afcefb.jpeg",
+            "source": "The Irish Times",
+            "title": "Andrew Tate's banned from YouTube, TikTok, Twitter, Facebook and Instagram.  What's he said that's so bad? \u2013 The Irish Times",
+            "link": "https://www.irishtimes.com/life-style/people/2022/08/27/andrew-tates-banned-from-youtube-tiktok-twitter-facebook-and-instagram-whats-he-said-thats-so-bad/",
+            "original": "https://www.irishtimes.com/resizer/eAezOYeGpaZLNHb82grnDblczlQ=/1600x1200/filters:format(jpg):quality(70):focal(335x145:345x155)/cloudfront-eu-central-1.images.arcpublishing.com/irishtimes/M4KFKUYVPZG7XKNCNGJAUJGNYA.jpg",
+            "original_width": 1600,
+            "original_height": 1200,
+            "is_product": false
+        },
+        {
+            "position": 20,
+            "thumbnail": "https://serpapi.com/searches/64295d3e0ead415966d362df/images/30284c404137cac6529dc73aac1159ca8113ca048c1c87ead9c3e25129a488e5.jpeg",
+            "source": "BBC",
+            "title": "Andrew Tate and Tristan Tate moved to house arrest - BBC News",
+            "link": "https://www.bbc.co.uk/news/world-europe-65144651",
+            "original": "https://ichef.bbci.co.uk/news/976/cpsprodpb/EFD2/production/_128249316_5c3b04f8a957758dc3d36191506e4072e23272dd0_0_4372_29912000x1368.jpg",
+            "original_width": 976,
+            "original_height": 549,
+            "is_product": false
+        },
+        {
+            "position": 21,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcMYoy0K7WIMK85Ioeixyxm8O-a3JfdFN5BQ&usqp=CAU",
+            "source": "Suara Merdeka Kedu",
+            "title": "Siapakah Andrew Tate ? Yuk Cari Tahu Disini - Suara Merdeka Kedu",
+            "link": "https://kedu.suaramerdeka.com/internasional/pr-214056710/siapakah-andrew-tate-yuk-cari-tahu-disini",
+            "original": "https://assets.suaramerdeka.com/crop/0x0:0x0/750x500/webp/photo/2022/08/04/3364600457.jpg",
+            "original_width": 750,
+            "original_height": 500,
+            "is_product": false
+        },
+        {
+            "position": 22,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjTcO7OoZ75wl6lBIHDpjDpl2u3h27xBO-9g&usqp=CAU",
+            "source": "Crow River Media",
+            "title": "Andrew Tate released from jail into house arrest | Entertainment |  crowrivermedia.com",
+            "link": "https://www.crowrivermedia.com/national/entertainment/andrew-tate-released-from-jail-into-house-arrest/article_47eabd79-6336-524e-9aae-e6dab7d4c3fe.html",
+            "original": "https://bloximages.newyork1.vip.townnews.com/crowrivermedia.com/content/tncms/assets/v3/editorial/0/44/04434fdd-7572-5c57-82c2-59dade8effc1/6427ebb8ec5f7.image.jpg?resize=400%2C260",
+            "original_width": 400,
+            "original_height": 260,
+            "is_product": false
+        },
+        {
+            "position": 23,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeNxWsq2l0fr5u6iyUZqQlD7uCNEXo9sHeOQ&usqp=CAU",
+            "source": "The New York Times",
+            "title": "Why Andrew Tate's Social Media Accounts Are Being Removed - The New York  Times",
+            "link": "https://www.nytimes.com/2022/08/24/technology/andrew-tate-banned-tiktok-instagram.html",
+            "original": "https://static01.nyt.com/images/2022/08/24/multimedia/24xp-tate/24xp-tate-superJumbo.jpg",
+            "original_width": 2048,
+            "original_height": 1365,
+            "is_product": false
+        },
+        {
+            "position": 24,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSRRw1W_R81TcltzzKSq_pH6bZAVxJgAVBpA&usqp=CAU",
+            "source": "Liputan6.com",
+            "title": "Andrew Tate Tersandung Kasus Dugaan Pemerkosaan Setelah Adu Mulut dengan  Greta Thunberg di Medsos - Lifestyle Liputan6.com",
+            "link": "https://www.liputan6.com/lifestyle/read/5167406/andrew-tate-tersandung-kasus-dugaan-pemerkosaan-setelah-adu-mulut-dengan-greta-thunberg-di-medsos",
+            "original": "https://cdn0-production-images-kly.akamaized.net/pf5-vP9E7jmQD_2amrx_qGeZxqs=/640x640/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/4276894/original/069143600_1672365470-318035102_196370879594628_1258014228533618847_n.jpg",
+            "original_width": 640,
+            "original_height": 640,
+            "is_product": false
+        },
+        {
+            "position": 25,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHU_a_pvLI4tuCtuuW5WzIjD_fIbfi6fiizg&usqp=CAU",
+            "source": "Sky News",
+            "title": "Controversial influencer Andrew Tate banned from Facebook and Instagram |  Ents & Arts News | Sky News",
+            "link": "https://news.sky.com/story/controversial-influencer-andrew-tate-banned-from-facebook-and-instagram-12676862",
+            "original": "https://e3.365dm.com/22/08/2048x1152/skynews-andrew-tate-big-brother_5869940.jpg",
+            "original_width": 2048,
+            "original_height": 1152,
+            "is_product": false
+        },
+        {
+            "position": 26,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqjyklbL0f53J4QR1cea2uSpxKQdIMRvnkYw&usqp=CAU",
+            "source": "HipHopDX",
+            "title": "Lil Nas X Fires Back At Andrew Tate Comparison Amid Controversy | HipHopDX",
+            "link": "https://hiphopdx.com/news/lil-nas-x-fires-back-andrew-tate-comparison",
+            "original": "https://static.hiphopdx.com/2023/03/lil-nas-x-fires-back-at-andrew-tate-comparison-following-controversial-trans-tweet-1200x675.jpg",
+            "original_width": 1200,
+            "original_height": 675,
+            "is_product": false
+        },
+        {
+            "position": 27,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQa0wsfemnHuP4xp7M910RXasZkVLQ90emXw&usqp=CAU",
+            "source": "Siasat.com",
+            "title": "Andrew Tate's manager confirms lung cancer rumors; know here",
+            "link": "https://www.siasat.com/andrew-tates-manager-confirms-lung-cancer-rumors-know-here-2540009/",
+            "original": "https://cdn.siasat.com/wp-content/uploads/2023/03/Andrew-Tate-660x495.jpg",
+            "original_width": 1200,
+            "original_height": 900,
+            "is_product": false
+        },
+        {
+            "position": 28,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjXbLiTQJ1CYHE-Bvgl9e4lF2BLQ_xmp2uUg&usqp=CAU",
+            "source": "Los Angeles Times",
+            "title": "Column: Andrew Tate is a whiny internet huckster - Los Angeles Times",
+            "link": "https://www.latimes.com/entertainment-arts/story/2022-12-31/andrew-tate-no-alpha-male-hes-whiner",
+            "original": "https://ca-times.brightspotcdn.com/dims4/default/2e9bedb/2147483647/strip/true/crop/1660x2075+0+0/resize/1200x1500!/quality/80/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F60%2Fc5%2F6b74acaa41d2b864fd3c314a2c66%2Fgettyimages-539295246-andrew-tate-2016-crop.jpg",
+            "original_width": 1200,
+            "original_height": 1500,
+            "is_product": false
+        },
+        {
+            "position": 29,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDOyXi2eqN5g_Us3A61Uw8BRcu0i0k6gUh-Q&usqp=CAU",
+            "source": "Newsweek",
+            "title": "Taliban 'Worried About Andrew Tate' as They Ask for His Freedom",
+            "link": "https://www.newsweek.com/taliban-worried-about-andrew-tate-they-ask-his-freedom-1770693",
+            "original": "https://d.newsweek.com/en/full/2172611/andrew-tate-defended-taliban-supporters.jpg?w=1600&h=1200&q=88&f=cb248f1f4fad697d1dd8add06416419d",
+            "original_width": 1600,
+            "original_height": 1200,
+            "is_product": false
+        },
+        {
+            "position": 30,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUYVJjHB1-u3yG9n_W4b1jxND4f3d5VVOxHg&usqp=CAU",
+            "source": "The Mirror",
+            "title": "Andrew Tate banned from TikTok as controversial kickboxer faces social  media blackout - Mirror Online",
+            "link": "https://www.mirror.co.uk/sport/boxing/andrew-tate-banned-tiktok-controversial-27800796",
+            "original": "https://i2-prod.dailystar.co.uk/incoming/article27740452.ece/ALTERNATES/s1200c/1_EHP_CHP_150822-Andrew-Tate-_71032.jpg",
+            "original_width": 1200,
+            "original_height": 1200,
+            "is_product": false
+        },
+        {
+            "position": 31,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSi1TPDTOY35Ez9mG0qk5jabNowCjc2F4nlYQ&usqp=CAU",
+            "source": "WCCB Charlotte",
+            "title": "Andrew Tate Appears For Day Two Of Forensic Device Searches - WCCB  Charlotte's CW",
+            "link": "https://www.wccbcharlotte.com/2023/01/26/andrew-tate-appears-for-day-two-of-forensic-device-searches/",
+            "original": "https://www.wccbcharlotte.com/content/uploads/2023/01/w/o/ap23026253314107-scaled.jpg",
+            "original_width": 2560,
+            "original_height": 1707,
+            "is_product": false
+        },
+        {
+            "position": 32,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROoyALE4LCeK-NKEEwJIxYoRc4weujGRTa2w&usqp=CAU",
+            "source": "Suara.com",
+            "title": "Profil Andrew Tate, Mantan Atlet MMA Ditangkap Polisi Romania",
+            "link": "https://www.suara.com/news/2022/12/30/232227/profil-andrew-tate-mantan-atlet-mma-ditangkap-polisi-romania",
+            "original": "https://media.suara.com/pictures/653x366/2022/12/30/24622-potret-andrew-tate.jpg",
+            "original_width": 653,
+            "original_height": 366,
+            "is_product": false
+        },
+        {
+            "position": 33,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQl3B1KhmHsilIzRKqy6yKN8x9TInQC34C1tg&usqp=CAU",
+            "source": "Women's Agenda",
+            "title": "What does the future looks like for Andrew Tate?",
+            "link": "https://womensagenda.com.au/latest/what-does-the-future-hold-for-andrew-tate/",
+            "original": "https://womensagenda.com.au/wp-content/uploads/2023/02/Untitled-design-29-1-1024x698.png",
+            "original_width": 1024,
+            "original_height": 698,
+            "is_product": false
+        },
+        {
+            "position": 34,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9gGELki_YIPqWMEhjbmX4f_ARGgYOiKlQ4g&usqp=CAU",
+            "source": "Spotify",
+            "title": "Andrew Tate the TopG (Extended Version) - lagu dan lirik oleh Underground  Plug | Spotify",
+            "link": "https://open.spotify.com/intl-id/track/3tir8CoFsJ5POlYMbLvAJe",
+            "original": "https://i.scdn.co/image/ab67616d0000b2739df30afedb72fda439002906",
+            "original_width": 640,
+            "original_height": 640,
+            "is_product": false
+        },
+        {
+            "position": 35,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToRSF35XNXJuId5T5HRMN6wLW7bJylemiO8Q&usqp=CAU",
+            "source": "Sky News",
+            "title": "Andrew Tate loses fresh appeal to be released from Romanian prison amid  human trafficking case | World News | Sky News",
+            "link": "https://news.sky.com/story/andrew-tate-loses-fresh-appeal-to-be-released-from-romanian-prison-amid-human-trafficking-case-12833347",
+            "original": "https://e3.365dm.com/23/03/768x432/skynews-andrew-tate_6088691.jpg?20230314145210",
+            "original_width": 768,
+            "original_height": 432,
+            "is_product": false
+        },
+        {
+            "position": 36,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLSQI7iQjAW1bv5JRwnDQn99XMK5iM3rPyvQ&usqp=CAU",
+            "source": "YouTube",
+            "title": "KO Masters #7: Miralem Ahmeti vs. Andrew Tate - YouTube",
+            "link": "https://www.youtube.com/watch?v=XMfoLN25FEM",
+            "tag": "3:15",
+            "original": "https://i.ytimg.com/vi/XMfoLN25FEM/maxresdefault.jpg",
+            "original_width": 1280,
+            "original_height": 720,
+            "is_product": true
+        },
+        {
+            "position": 37,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZrTqHK0clmwPuz0q26a86_KuJNII2xUcS4g&usqp=CAU",
+            "source": "Newsweek",
+            "title": "Andrew Tate news & latest pictures from Newsweek.com",
+            "link": "https://www.newsweek.com/topic/andrew-tate",
+            "original": "https://d.newsweek.com/en/full/2171987/headshot-andrew-tate-sunglasses.jpg",
+            "original_width": 1600,
+            "original_height": 1200,
+            "is_product": false
+        },
+        {
+            "position": 38,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ__WljLQQlfP__syw1kzWvzeWV7-dP3wacEw&usqp=CAU",
+            "source": "Glamour UK",
+            "title": "Andrew Tate: How To Talk To Men That Follow Him | Glamour UK",
+            "link": "https://www.glamourmagazine.co.uk/article/andrew-tate-how-to-talk-to-followers",
+            "original": "https://media.glamourmagazine.co.uk/photos/63bd3eda599c843811359329/16:9/w_1920,h_1080,c_limit/ANDREW%20TATE%2010012023-sq.jpg",
+            "original_width": 1920,
+            "original_height": 1080,
+            "is_product": false
+        },
+        {
+            "position": 39,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQst_9ypqQqpldCX-_fmaURDhDC2-9sRMwj4A&usqp=CAU",
+            "source": "Spotify",
+            "title": "Andrew Tate | Spotify",
+            "link": "https://open.spotify.com/intl-id/artist/1cqe0d2eq51b4m0PRrOPzd",
+            "original": "https://i.scdn.co/image/ab6761610000e5eb3b68b4ec47e0876d16455b72",
+            "original_width": 640,
+            "original_height": 640,
+            "is_product": false
+        },
+        {
+            "position": 40,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3vjKdOqMHucrH73Rt8Cd7nyXGQhVXVXFoOQ&usqp=CAU",
+            "source": "The Mirror",
+            "title": "Andrew Tate released from prison after three months behind bars - Mirror  Online",
+            "link": "https://www.mirror.co.uk/sport/boxing/breaking-andrew-tate-released-prison-29576553",
+            "original": "https://i2-prod.mirror.co.uk/incoming/article29383452.ece/ALTERNATES/s615b/0_Tate-brothers-appear-before-a-judge-of-the-Bucharest-Court-of-Appeal-Romania-27-Feb-2023.jpg",
+            "original_width": 615,
+            "original_height": 395,
+            "is_product": false
+        },
+        {
+            "position": 41,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR07_eYfUYz_iq9LPqZmKmYM_cckandZwKmYg&usqp=CAU",
+            "source": "InsideSport.IN",
+            "title": "Andrew Tate on Death: VIDEO- Imprisoned Millionaire Andrew Tate gets honest  on his belief in God",
+            "link": "https://www.insidesport.in/andrew-tate-on-death-video-imprisoned-millionaire-andrew-tate-gets-honest-on-his-belief-in-god-from-romanian-jail-check-more-on-andrew-tates-arrest/",
+            "original": "https://www.insidesport.in/wp-content/uploads/2023/03/1-2.png",
+            "original_width": 543,
+            "original_height": 560,
+            "is_product": false
+        },
+        {
+            "position": 42,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7udYGlThZ53NW0Ev0RCAJOa9V6baDsiHgdg&usqp=CAU",
+            "source": "Tribun",
+            "title": "Andrew Tate Pindah dari Penjara Rumania, Kini Jadi Tahanan Rumah setelah  Menang Banding - TribunNews.com",
+            "link": "https://www.tribunnews.com/seleb/2023/04/01/andrew-tate-pindah-dari-penjara-rumania-kini-jadi-tahanan-rumah-setelah-menang-banding",
+            "tag": "1 day ago",
+            "original": "https://cdn-2.tstatic.net/tribunnews/foto/bank/images/andrew-tate-efkioyt7g.jpg",
+            "original_width": 700,
+            "original_height": 393,
+            "is_product": true
+        },
+        {
+            "position": 43,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQM3SHYv8YH-ja_LqWcqw6tpyMz-2Getyw7dQ&usqp=CAU",
+            "source": "The Indian Express",
+            "title": "Karishma Sharma says Andrew Tate is a liar, they never 'hooked up': 'Was  really happy when he was arrested' | Entertainment News,The Indian Express",
+            "link": "https://indianexpress.com/article/entertainment/bollywood/andrew-tate-karishma-sharma-says-they-never-hooked-up-8372302/",
+            "original": "https://images.indianexpress.com/2023/01/tate1200.jpg",
+            "original_width": 1200,
+            "original_height": 667,
+            "is_product": false
+        },
+        {
+            "position": 44,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQA0VK05uSivcqe4zeyzribPAzeWTf_kCQBAg&usqp=CAU",
+            "source": "Spiel Times",
+            "title": "Who is Andrew Tate and why is he famous?",
+            "link": "https://www.spieltimes.com/news/who-is-andrew-tate-and-why-is-he-famous/",
+            "original": "https://www.spieltimes.com/wp-content/uploads/2022/08/Andrew-Tate.jpg",
+            "original_width": 1440,
+            "original_height": 1440,
+            "is_product": false
+        },
+        {
+            "position": 45,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmxNOOnHdCc0EXIQ-QVeFYVsD16886mRUTcQ&usqp=CAU",
+            "source": "The Guardian",
+            "title": "Romanian court extends Andrew Tate detention by 30 days | Andrew Tate | The  Guardian",
+            "link": "https://www.theguardian.com/news/2023/feb/21/andrew-tate-to-be-held-in-romania-for-30-more-days-as-court-extends-detention",
+            "original": "https://i.guim.co.uk/img/media/f154736c7ec932f075a6461edd6796eaa31920ef/0_0_3600_2160/master/3600.jpg?width=1200&height=1200&quality=85&auto=format&fit=crop&s=31a3dfa20d0362212f85f09819779765",
+            "original_width": 1200,
+            "original_height": 1200,
+            "is_product": false
+        },
+        {
+            "position": 46,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCmDUGDgBIU3acqPx1ApSjTtz6G82ZFF6Evw&usqp=CAU",
+            "source": "NPR",
+            "title": "Andrew Tate porn ring case: Romanians haul away cars, watches worth $3.9  million : NPR",
+            "link": "https://www.npr.org/2023/01/16/1149393572/andrew-tate-cars-romania-sex-trafficking-case",
+            "original": "https://media.npr.org/assets/img/2023/01/16/ap23014495233817-5b9a6b98377085c2a62880544b3b403c0403d76e.jpg",
+            "original_width": 3901,
+            "original_height": 2926,
+            "is_product": false
+        },
+        {
+            "position": 47,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLq62zQOpdOJIfKyk5W8fjqy_PRdcklTV-Vw&usqp=CAU",
+            "source": "The Australian",
+            "title": "Inside Andrew Tate: the face of toxic masculinity | The Australian",
+            "link": "https://www.theaustralian.com.au/the-oz/news/im-not-a-fcking-rapist-but-i-like-the-idea-of-doing-what-i-want/news-story/f91fc7bd07bf45b5706c8687a7040903",
+            "original": "https://content.api.news/v3/images/bin/615131aefb8405a4687daf730d5b2117?width=1280",
+            "original_width": 1280,
+            "original_height": 720,
+            "is_product": false
+        },
+        {
+            "position": 48,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwaghX7CCVa37v9dvIWm2yBgy3_Mn3V1XxGA&usqp=CAU",
+            "source": "InsideSport.IN",
+            "title": "Andrew Tate or Conor McGregor: Whose Gym Workout Is Suitable for You?",
+            "link": "https://www.insidesport.in/andrew-tate-or-conor-mcgregor-whose-gym-workout-is-suitable-for-you/",
+            "original": "https://www.insidesport.in/wp-content/uploads/2023/01/McGregor-Tate.png?w=690",
+            "original_width": 690,
+            "original_height": 388,
+            "is_product": false
+        },
+        {
+            "position": 49,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6NoXHGSSw5sA3WR7oVhwXonZjpqaHhoF4SQ&usqp=CAU",
+            "source": "YouTube",
+            "title": "Andrew Tate's Empire Proves the Toxic Male is Thriving - YouTube",
+            "link": "https://www.youtube.com/watch?v=1530PO1OP-4",
+            "tag": "12:39",
+            "original": "https://i.ytimg.com/vi/1530PO1OP-4/maxresdefault.jpg",
+            "original_width": 1280,
+            "original_height": 720,
+            "is_product": true
+        },
+        {
+            "position": 50,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLgqgvsWrTxEvoFBN8kpyeatgZhCtNx7WTmA&usqp=CAU",
+            "source": "NBC News",
+            "title": "Josh Richards compares Andrew Tate's comments to female creators saying  'men are trash'",
+            "link": "https://www.nbcnews.com/pop-culture/pop-culture-news/josh-richards-compares-andrew-tates-comments-female-creators-saying-me-rcna45901",
+            "original": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit-1240w,f_auto,q_auto:best/rockcms/2022-09/220901-josh-richards-andrew-tate-al-1327-97f49f.jpg",
+            "original_width": 1240,
+            "original_height": 620,
+            "is_product": false
+        },
+        {
+            "position": 51,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3ymzUPArodZU-YXj91xtbPPP3anr9E2h5lA&usqp=CAU",
+            "source": "The Times",
+            "title": "Andrew Tate: out of jail, straight onto his phone",
+            "link": "https://www.thetimes.co.uk/article/andrew-tate-out-of-jail-straight-onto-his-phone-cs3xgs9wp",
+            "original": "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2Fa15b2176-967c-11ed-a130-baced48eb788.jpg?crop=1500%2C1000%2C0%2C0",
+            "original_width": 1500,
+            "original_height": 1000,
+            "is_product": false
+        },
+        {
+            "position": 52,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVXY_k9Zf4xHyZNaSabFo6lSgPoFzx-ym1vg&usqp=CAU",
+            "source": "CNBC Indonesia",
+            "title": "Heboh! Karena Kelakuannya, Pria Ini di Banned Seluruh Medsos",
+            "link": "https://www.cnbcindonesia.com/tech/20220827172205-37-367114/heboh-karena-kelakuannya-pria-ini-di-banned-seluruh-medsos",
+            "original": "https://awsimages.detik.net.id/visual/2022/08/27/andrew-tate.webp?w=650",
+            "original_width": 650,
+            "original_height": 433,
+            "is_product": false
+        },
+        {
+            "position": 53,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRL51NXEEY2GrX-IrkqcbBvIqbXBr5bSjBQ3A&usqp=CAU",
+            "source": "CAknowledge",
+            "title": "Andrew Tate Net Worth 2023: Private Jet Luxury Life Earnings",
+            "link": "https://caknowledge.com/andrew-tate-net-worth/",
+            "original": "https://caknowledge.com/wp-content/uploads/2023/03/Andrew-Tate-Net-Worth.jpeg",
+            "original_width": 1280,
+            "original_height": 720,
+            "is_product": false
+        },
+        {
+            "position": 54,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwnN8EuGm6X1iWC_XyIcZhFJLFzejgKPZmNA&usqp=CAU",
+            "source": "Sportsmanor",
+            "title": "Andrew Tate Reportedly Looking For Revenge Against the Women Who Put Him  and Tristan Tate in Prison - Sportsmanor",
+            "link": "https://www.sportsmanor.com/boxing-news-andrew-tate-reportedly-looking-for-revenge-against-the-women-who-put-him-and-tristan-tate-in-prison/",
+            "original": "https://cdn.sportsmanor.com/wp-content/uploads/2023/01/12033947/Andrew-Tate-women.jpg",
+            "original_width": 1200,
+            "original_height": 628,
+            "is_product": false
+        },
+        {
+            "position": 55,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTImHbyYlRIl9JJm--Ix_Nexr-g9v0MAmjs8g&usqp=CAU",
+            "source": "Yahoo Sports",
+            "title": "Andrew Tate closed his Hustlers University affiliate marketing program that  helped him go viral a day after he was banned from Meta and TikTok",
+            "link": "https://sports.yahoo.com/andrew-tate-closed-hustlers-university-065921685.html?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_sig=AQAAAEgPP_JM5dClyXNHwTzSA_TuskLaT7YgNLg7dYz9XHHjWwXmiwWf3HZDOHsVTFouVRqjipOGCfBaH-GI4Bylv5TdEibZsEJ_dn3_sCD1enNU_yIVQjmKZgptac5UlV9a1p3jtnyMAiqCZev27Eken1D8yA0u7m2F3onl2-ksMsx8",
+            "original": "https://s.yimg.com/ny/api/res/1.2/UCwwAFR61KCc.Kfy6_9Y9g--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD05MDA-/https://media.zenfs.com/en/insider_articles_922/491afb1b8e6c9f0e1fcda1a14d2cc399",
+            "original_width": 1200,
+            "original_height": 900,
+            "is_product": false
+        },
+        {
+            "position": 56,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlXZGAopBeJpsj-BUyUWAefDirJqoxg45u7A&usqp=CAU",
+            "source": "Wales Online",
+            "title": "Andrew Tate to remain detained in Romania after bail refused - Wales Online",
+            "link": "https://www.walesonline.co.uk/news/world-news/andrew-tate-remain-detained-romania-26470284",
+            "original": "https://i2-prod.coventrytelegraph.net/incoming/article26134053.ece/ALTERNATES/s615/1_ROMANIA_Tate_130570.jpg",
+            "original_width": 615,
+            "original_height": 409,
+            "is_product": false
+        },
+        {
+            "position": 57,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFUJBfIlbtL_VbZIs0uUpNgfQXwbtin6pk2w&usqp=CAU",
+            "source": "Newsweek",
+            "title": "Does Andrew Tate Have Lung Cancer? What Leaked Medical Documents Reveal",
+            "link": "https://www.newsweek.com/andrew-tate-lung-cancer-romania-medical-1785267",
+            "original": "https://d.newsweek.com/en/full/2203660/andrew-tate-romania.jpg",
+            "original_width": 2500,
+            "original_height": 1670,
+            "is_product": false
+        },
+        {
+            "position": 58,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0jEPxgyizSAfY8lds2aWPuXA1WUyLPdOAkA&usqp=CAU",
+            "source": "VOA News",
+            "title": "Romanian Court Upholds Arrest of Influencer Andrew Tate",
+            "link": "https://www.voanews.com/a/romanian-court-upholds-arrest-of-influencer-andrew-tate-/6912739.html",
+            "original": "https://gdb.voanews.com/09410000-0a00-0242-a754-08daf35358d8_w408_r1_s.jpg",
+            "original_width": 408,
+            "original_height": 230,
+            "is_product": false
+        },
+        {
+            "position": 59,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHFNTnqzymSBD8Y6CV2IQ1cnb1shdnXW6XjQ&usqp=CAU",
+            "source": "Glamour UK",
+            "title": "Andrew Tate: A Timeline Of Everything That's Happened | Glamour UK",
+            "link": "https://www.glamourmagazine.co.uk/article/andrew-tate-timeline",
+            "original": "https://media.glamourmagazine.co.uk/photos/63bee1dd0e89b79e0e1b92af/16:9/w_2560%2Cc_limit/ANDREW%2520TATE%2520110123%2520default-land-GettyImages-1246122962.jpg",
+            "original_width": 2560,
+            "original_height": 1440,
+            "is_product": false
+        },
+        {
+            "position": 60,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-PQ0_DXR7pomL6FwVuhq2SCh0saPqtY5oew&usqp=CAU",
+            "source": "Rolling Stone",
+            "title": "Andrew Tate Built an Empire on Bullshit. Here's the Real Story \u2013 Rolling  Stone",
+            "link": "https://www.rollingstone.com/culture/culture-features/andrew-tate-empire-real-story-1234696706/",
+            "original": "https://www.rollingstone.com/wp-content/uploads/2023/03/andrew-tate-deep-dive-v100.jpg?w=1600&h=900&crop=1",
+            "original_width": 1600,
+            "original_height": 900,
+            "is_product": false
+        },
+        {
+            "position": 61,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMCAKwm86zeHWY0BMn26uoNya7Bj4XBAhDFw&usqp=CAU",
+            "source": "LADbible",
+            "title": "Andrew Tate says he gets 10,000 death threats a day in response to Facebook  and Insta ban",
+            "link": "https://www.ladbible.com/news/andrew-tate-releases-statement-instagram-20220819",
+            "original": "https://images.ladbible.com/resize?type=jpeg&quality=70&width=720&fit=contain&gravity=null&dpr=1&url=https://eu-images.contentstack.com/v3/assets/bltcd74acc1d0a99f3a/blt9bb687dc2a92fd05/62ffdd2d07c7f733e7a647fd/300475128_548189123768070_2606585138379829593_n.jpeg",
+            "original_width": 720,
+            "original_height": 405,
+            "is_product": false
+        },
+        {
+            "position": 62,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRD_UzQ3CumaGz_Hkci59Sz276_5ruIYzjDtg&usqp=CAU",
+            "source": "Sky News",
+            "title": "Who is Andrew Tate, the self-styled 'king of toxic masculinity' under house  arrest in Romania? | World News | Sky News",
+            "link": "https://news.sky.com/story/who-is-andrew-tate-the-self-styled-king-of-toxic-masculinity-arrested-in-romania-12776832",
+            "original": "https://e3.365dm.com/22/08/768x432/skynews-andrew-tate-youtube_5873049.png?20220822184501",
+            "original_width": 768,
+            "original_height": 432,
+            "is_product": false
+        },
+        {
+            "position": 63,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTImbqLdvtqJ0J2akq2YwdHIu2-gLhYC1cRyw&usqp=CAU",
+            "source": "Stuff.co.nz",
+            "title": "Andrew Tate ruined my relationship': What happened when my boyfriend became  a 'hustler' | Stuff.co.nz",
+            "link": "https://www.stuff.co.nz/life-style/300836053/andrew-tate-ruined-my-relationship-what-happened-when-my-boyfriend-became-a-hustler",
+            "original": "https://resources.stuff.co.nz/content/dam/images/4/z/0/b/w/0/image.related.StuffLandscapeSixteenByNine.710x400.4z3yl1.png/1679377255012.jpg?format=pjpg&optimize=medium",
+            "original_width": 710,
+            "original_height": 399,
+            "is_product": false
+        },
+        {
+            "position": 64,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVtqlkX8uHY1NOK4HsAt2oKNzTvL6X6SV7gQ&usqp=CAU",
+            "source": "British GQ",
+            "title": "The Dangerous Rise of Andrew Tate is a terrifying look inside the world of  a farcical cult leader | British GQ",
+            "link": "https://www.gq-magazine.co.uk/culture/article/the-dangerous-rise-of-andrew-tate-documentary-bbc-three-2023",
+            "original": "https://media.gq-magazine.co.uk/photos/63f761883f00825bbb9921e8/16:9/w_1280,c_limit/Andrew-tate-2.jpg",
+            "original_width": 1200,
+            "original_height": 675,
+            "is_product": false
+        },
+        {
+            "position": 65,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpYz6zbUJ5KVr-DTRP0ETNlmu_Au1dkLh6DQ&usqp=CAU",
+            "source": "News24",
+            "title": "Romania further extends influencer Andrew Tate's detention | Life",
+            "link": "https://www.news24.com/life/arts-and-entertainment/celebrities/romania-further-extends-influencer-andrew-tates-detention-20230323",
+            "original": "https://cdn.24.co.za/files/Cms/General/d/7923/9cefc66dad284559a9554bc1cf478519.jpg",
+            "original_width": 650,
+            "original_height": 430,
+            "is_product": false
+        },
+        {
+            "position": 66,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGAALmb7esnuzkpjGI3vqdWFMc2v7PAaRtyg&usqp=CAU",
+            "source": "Hidayatullah.com",
+            "title": "Bukan Gegara Pizza Seleb TikTok Misoginis Andrew Tate Terancam Penjara 10  Tahun - Hidayatullah.com",
+            "link": "https://hidayatullah.com/berita/internasional/2023/01/12/243417/seleb-tiktok-kontroversial-misoginis-andrew-tate-terancam-penjara-10-tahun.html",
+            "original": "https://hidayatullah.com/wp-content/uploads/2023/01/andrew-tate-tristan.jpeg",
+            "original_width": 738,
+            "original_height": 415,
+            "is_product": false
+        },
+        {
+            "position": 67,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDJ76YYmCa-c-jebGcrorZTM718J9r3gPY3w&usqp=CAU",
+            "source": "ABC",
+            "title": "Andrew Tate and brother lose appeal against 30-day detention in Romania -  ABC News",
+            "link": "https://www.abc.net.au/news/2023-02-02/andrew-tate-loses-appeal-against-30-day-detention-in-romania/101919940",
+            "original": "https://live-production.wcms.abc-cdn.net.au/0c4d2268f706bce65c3205c6f2ccabda?impolicy=wcms_crop_resize&cropH=2530&cropW=4498&xPos=0&yPos=28&width=862&height=485",
+            "original_width": 862,
+            "original_height": 485,
+            "is_product": false
+        },
+        {
+            "position": 68,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKSjcw6rCJbhA-pSmtiH-A2bb2oKbogEPnEQ&usqp=CAU",
+            "source": "The Mirror",
+            "title": "Andrew Tate released from prison after three months behind bars - Mirror  Online",
+            "link": "https://www.mirror.co.uk/sport/boxing/breaking-andrew-tate-released-prison-29576553",
+            "original": "https://i2-prod.mirror.co.uk/incoming/article29103771.ece/ALTERNATES/s615/0_Andrew-Tate.jpg%20615w",
+            "original_width": 615,
+            "original_height": 409,
+            "is_product": false
+        },
+        {
+            "position": 69,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT64NbaowjB_rk11GT7r5rw-IRfVR4q-AI4Rg&usqp=CAU",
+            "source": "Liputan6.com",
+            "title": "Siapa Andrew Tate yang Adu Mulut dengan Greta Thunberg dan Ditangkap Polisi  Rumania? - Global Liputan6.com",
+            "link": "https://www.liputan6.com/global/read/5167799/siapa-andrew-tate-yang-adu-mulut-dengan-greta-thunberg-dan-ditangkap-polisi-rumania",
+            "original": "https://cdn0-production-images-kly.akamaized.net/n9CtWjvr6oX2USLmHCbgTbV2hgo=/640x360/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/4277168/original/052588800_1672382015-1672374299446_1280x720_px__1_.jpg",
+            "original_width": 640,
+            "original_height": 360,
+            "is_product": false
+        },
+        {
+            "position": 70,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQn-B6maWGkjRXTroaHCYNmT5x8C9r7LSwocQ&usqp=CAU",
+            "source": "Kompas.com",
+            "title": "Cara Andrew Tate Dekati Perempuan lewat Media Sosial Diungkap Halaman all -  Kompas.com",
+            "link": "https://www.kompas.com/global/read/2023/02/03/130000570/cara-andrew-tate-dekati-perempuan-lewat-media-sosial-diungkap?page=all",
+            "original": "https://asset.kompas.com/crops/9zPSHHZE_3lUQy6R9uBHzVAE1eU=/90x0:1291x801/750x500/data/photo/2022/12/30/63ae8d4983dad.jpg",
+            "original_width": 750,
+            "original_height": 500,
+            "is_product": false
+        },
+        {
+            "position": 71,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiVhMjOHrP_2fWrJQh1lrA4RD8upbc0rKhLg&usqp=CAU",
+            "source": "ITVX",
+            "title": "Influencer Andrew Tate has detention extended for fourth time by Romanian  court | ITV News",
+            "link": "https://www.itv.com/news/2023-03-22/influencer-andrew-tate-has-detention-extended-for-fourth-time",
+            "original": "https://images.ctfassets.net/pjshm78m9jt4/6R4G6I20xtoHy6Kv7U0vnz/7a5211497af86250dd0c6a3b53ab9dd8/AP23011452529949.jpg",
+            "original_width": 3555,
+            "original_height": 1999,
+            "is_product": false
+        },
+        {
+            "position": 72,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgiHAZjwFuk_c1uuKHgacxXc2-hRI_2-in_w&usqp=CAU",
+            "source": "Sportskeeda",
+            "title": "True Geordie calls out Andrew Tate, says he would punch him in the face",
+            "link": "https://www.sportskeeda.com/esports/news-true-geordie-calls-andrew-tate-says-punch-face",
+            "original": "https://staticg.sportskeeda.com/editor/2022/08/3aae0-16608341111313-1920.jpg",
+            "original_width": 1920,
+            "original_height": 1081,
+            "is_product": false
+        },
+        {
+            "position": 73,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPhLo6tbIeq9PtgJk1bysQ7aur6wPl44bwbA&usqp=CAU",
+            "source": "MARCA",
+            "title": "Andrew Tate denies lung cancer rumors, claims scarring from \"old battle\" |  Marca",
+            "link": "https://www.marca.com/en/lifestyle/celebrities/2023/03/06/64064bbb268e3eda7b8b45cb.html",
+            "original": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2023/03/06/16781339653606.jpg",
+            "original_width": 1980,
+            "original_height": 1320,
+            "is_product": false
+        },
+        {
+            "position": 74,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZN11mqo-uxXcCR25ZoPLv6x1iye02v_QneQ&usqp=CAU",
+            "source": "New York Post",
+            "title": "Andrew Tate mocked over brag about 'full head of hair'",
+            "link": "https://nypost.com/2023/03/01/andrew-tate-mocked-over-brag-about-full-head-of-hair/",
+            "original": "https://nypost.com/wp-content/uploads/sites/2/2023/03/NYPICHPDPICT000007455078.jpg?quality=75&strip=all",
+            "original_width": 2000,
+            "original_height": 1333,
+            "is_product": false
+        },
+        {
+            "position": 75,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVEFo7FxxXKnLYFuhvWNPBvPxHm0Zqmab6aA&usqp=CAU",
+            "source": "Insider",
+            "title": "Meta and TikTok Ban Influencer Andrew Tate From Its Platforms",
+            "link": "https://www.insider.com/meta-bans-influencer-andrew-tate-facebook-instagram-2022-8",
+            "original": "https://i.insider.com/62fea98cec781d001868c272?width=700",
+            "original_width": 700,
+            "original_height": 525,
+            "is_product": false
+        },
+        {
+            "position": 76,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGPqBu6eBNrb62a3sXRVXd9a1wRsvYcjAqzA&usqp=CAU",
+            "source": "People",
+            "title": "Andrew Tate Released from Romanian Jail and Placed Under House Arrest",
+            "link": "https://people.com/crime/andrew-tate-brother-tristan-released-from-romanian-jail-placed-house-arrest/",
+            "tag": "1 day ago",
+            "original": "https://people.com/thmb/wLSvmnSV2VwVjqicDvP0Duy03n8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(819x465:821x467)/Andrew-Tate-01-033123-2094858403bd449cb1a7af7c2f88573b.jpg",
+            "original_width": 1500,
+            "original_height": 1000,
+            "is_product": true
+        },
+        {
+            "position": 77,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRi5yq-V1urFed28oEPuXK7hj8zNIAlDbyEmQ&usqp=CAU",
+            "source": "TMZ",
+            "title": "Jake Paul and Andrew Tate Come Face To Face, Tease Fight!",
+            "link": "https://www.tmz.com/2022/11/10/jake-paul-face-off-andrew-tate-negotiating-next-fight-boxing/",
+            "tag": "0:10",
+            "original": "https://imagez.tmz.com/image/ef/4by3/2022/11/10/ef89edc0b8a542feadaae7f338501bdc_xl.png",
+            "original_width": 2048,
+            "original_height": 1536,
+            "is_product": true
+        },
+        {
+            "position": 78,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWv9xpQ43zXbgL_aak1eC9CrztL9oxorwXww&usqp=CAU",
+            "source": "SPORTbible",
+            "title": "Andrew Tate banned from Facebook and Instagram after controversial posts",
+            "link": "https://www.sportbible.com/mma/controversial-andrew-tate-removed-from-facebook-and-instagram-by-meta-20220819",
+            "original": "https://images.ladbible.com/resize?type=jpeg&quality=70&width=720&fit=contain&gravity=null&dpr=1&url=https://eu-images.contentstack.com/v3/assets/blta90d05ad41a54a71/blt03730ef204b03bb7/62ffb6defa436d2f176bf7d2/resize.webp",
+            "original_width": 720,
+            "original_height": 405,
+            "is_product": false
+        },
+        {
+            "position": 79,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2IBfPQxpoXhL3ZuaKhC_UA4xgMQhkY7TtfQ&usqp=CAU",
+            "source": "Birmingham Live",
+            "title": "Andrew Tate arrest update as controversial star faces 'extended detention'  - Birmingham Live",
+            "link": "https://www.birminghammail.co.uk/news/showbiz-tv/andrew-tate-arrest-update-controversial-25864429",
+            "original": "https://i2-prod.birminghammail.co.uk/news/showbiz-tv/article25864452.ece/ALTERNATES/s1200c/2_Emory-Andrew-Tate-III.jpg",
+            "original_width": 1200,
+            "original_height": 1200,
+            "is_product": false
+        },
+        {
+            "position": 80,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRm20280bJCTEetHu_cSt0V3DjECMeFksNTzA&usqp=CAU",
+            "source": "BBC",
+            "title": "Andrew Tate: Who is the online influencer? - BBC News",
+            "link": "https://www.bbc.com/news/av/uk-wales-63922998",
+            "tag": "1:54",
+            "original": "https://ichef.bbci.co.uk/images/ic/1232x1232/p0ds60vx.jpg",
+            "original_width": 1232,
+            "original_height": 1232,
+            "is_product": true
+        },
+        {
+            "position": 81,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQU394sxMuMND3oiBdDXq3k9Zr9b_pugXtk6Q&usqp=CAU",
+            "source": "Faster Living",
+            "title": "Inside Tristan and Andrew Tate's car collection worth over $7,500,000",
+            "link": "https://fasterliving.com/inside-tristan-and-andrew-tates-car-collection-worth-over-7500000/",
+            "original": "https://fasterliving.com/wp-content/uploads/2022/06/Thumbnail@0.33x-1-scaled.jpg",
+            "original_width": 2560,
+            "original_height": 1708,
+            "is_product": false
+        },
+        {
+            "position": 82,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKKuOJgUmoR6k3MOMWIms_OXGwKn5GsKSylQ&usqp=CAU",
+            "source": "YouTube",
+            "title": "WATCH THIS EVERY DAY - Motivational Speech By Andrew Tate [YOU NEED TO  WATCH THIS] - YouTube",
+            "link": "https://www.youtube.com/watch?v=BX1WpL2VlhM",
+            "tag": "15:38",
+            "original": "https://i.ytimg.com/vi/BX1WpL2VlhM/maxresdefault.jpg",
+            "original_width": 1280,
+            "original_height": 720,
+            "is_product": true
+        },
+        {
+            "position": 83,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScN_xPZIv2cOI3E86KFLbQIsu76E4IMtFK9A&usqp=CAU",
+            "source": "Hollywood Life",
+            "title": "Greta Thunberg's Response To Andrew Tate Bragging About His 33 Cars \u2013  Hollywood Life",
+            "link": "https://hollywoodlife.com/2022/12/28/greta-thunberg-response-andrew-tate-cars-climate-change/",
+            "original": "https://hollywoodlife.com/wp-content/uploads/2022/12/Greta-Thunberg-andrew-tate-response-shutter-ftr.jpg?w=620",
+            "original_width": 620,
+            "original_height": 350,
+            "is_product": false
+        },
+        {
+            "position": 84,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzA1Rm9JbAKlQV98CPC0O-9_vP8W3oQSwp4g&usqp=CAU",
+            "source": "BolaTimes.com",
+            "title": "Profil Andrew Tate, Mantan Petarung MMA yang Kini Jadi Mualaf -  BolaTimes.com",
+            "link": "https://www.bolatimes.com/arena/2022/10/27/090000/profil-andrew-tate-mantan-petarung-mma-yang-kini-jadi-mualaf",
+            "original": "https://media.bolatimes.com/thumbs/2022/10/27/34809-sosok-andrew-tate-saat-masih-menjadi-pemain-kickboxer-instagramatemory-cobratate/730x480-img-34809-sosok-andrew-tate-saat-masih-menjadi-pemain-kickboxer-instagramatemory-cobratate.jpg",
+            "original_width": 730,
+            "original_height": 480,
+            "is_product": false
+        },
+        {
+            "position": 85,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjSQD8UHA6bBZD8jNAHYVPZkLpn2F5q8IaHA&usqp=CAU",
+            "source": "Narcity",
+            "title": "Toxic' Influencer Andrew Tate Has Been Banned From Instagram & Facebook -  Narcity",
+            "link": "https://www.narcity.com/andrew-tate-banned-instagram-facebook",
+            "original": "https://www.narcity.com/media-library/andrew-tate-on-a-podcast.png?id=31094064&width=1000&height=750&coordinates=0%2C0%2C0%2C158",
+            "original_width": 1000,
+            "original_height": 749,
+            "is_product": false
+        },
+        {
+            "position": 86,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSe6XA3bym_Z9gKu14HiVS2qcWSqtuOFMwmpQ&usqp=CAU",
+            "source": "from the South Wales Guardian",
+            "title": "Influencer Andrew Tate banned from Facebook and Instagram | South Wales  Guardian",
+            "link": "https://www.southwalesguardian.co.uk/news/national/20676519.influencer-andrew-tate-banned-facebook-instagram/",
+            "original": "https://image.assets.pressassociation.io/v2/image/production/37fdf2ebf44aa0a5b43cc9b326491436Y29udGVudHNlYXJjaGFwaSwxNjYxMDExNDI1/2.26537799.jpg?w=640",
+            "original_width": 640,
+            "original_height": 960,
+            "is_product": false
+        },
+        {
+            "position": 87,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgNpuKuRRq62zAQCOQNErBOclVXNSxoeJCFA&usqp=CAU",
+            "source": "Radio Free Europe",
+            "title": "Andrew Tate To Remain In Romanian Detention For 30 More Days",
+            "link": "https://www.rferl.org/a/romania-andrew-tate-detention-extended-30-days/32329730.html",
+            "original": "https://gdb.rferl.org/01000000-0aff-0242-9f8e-08db0f53c24d_w408_r1_s.jpg",
+            "original_width": 408,
+            "original_height": 230,
+            "is_product": false
+        },
+        {
+            "position": 88,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoubWZIVGIVp_BMt_G29FTJb-AaPDcI3KeTw&usqp=CAU",
+            "source": "CNET",
+            "title": "Andrew Tate: The Arrest, Greta Thunberg Feud and Everything Else You Need  to Know - CNET",
+            "link": "https://www.cnet.com/culture/andrew-tate-the-arrest-greta-thunberg-feud-and-everything-else-you-need-to-know/",
+            "original": "https://www.cnet.com/a/img/resize/80a6258ea6642c4c0331f7d82bbc41a7bea36440/hub/2022/08/24/34d4ade1-6ac2-4016-8113-182347693167/screenshot-2022-08-24-143409.png?auto=webp&fit=crop&height=1200&width=1200",
+            "original_width": 1200,
+            "original_height": 1200,
+            "is_product": false
+        },
+        {
+            "position": 89,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-nXlkt2kd6LjuYGFKurjt7Il2r_QYlyV66A&usqp=CAU",
+            "source": "The Sun",
+            "title": "Andrew Tate - Latest news and gossip - The Sun",
+            "link": "https://www.thesun.co.uk/who/andrew-tate/",
+            "tag": "6 days ago",
+            "original": "https://www.thesun.co.uk/wp-content/uploads/2023/03/VP-ANDREW-TATE-750x352-1.jpg?strip=all&w=750&h=352&crop=1",
+            "original_width": 750,
+            "original_height": 352,
+            "is_product": true
+        },
+        {
+            "position": 90,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTczz_mjICI3Lutvty4U0sWHzeT4Rgp1nFxxQ&usqp=CAU",
+            "source": "InsideSport.IN",
+            "title": "Andrew Tate Major Update: '100 million dollars a day'- Arrested Millionaire Andrew  Tate makes major",
+            "link": "https://www.insidesport.in/andrew-tate-major-update-100-million-dollars-a-day-arrested-millionaire-andrew-tate-makes-major-revelation-about-his-social-media-platform-from-jail/",
+            "original": "https://www.insidesport.in/wp-content/uploads/2023/03/Coffee-Tutorial-YouTube-Thumbnail-2023-01-31T012844.565-5.webp",
+            "original_width": 690,
+            "original_height": 388,
+            "is_product": false
+        },
+        {
+            "position": 91,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStJQSsfq0VHtLAXQ8yJ5nAnUMoM_4_2tuGRA&usqp=CAU",
+            "source": "The Tab",
+            "title": "Andrew Tate has said he was 'playing a comedic character' on social media",
+            "link": "https://thetab.com/uk/2022/08/22/andrew-tate-says-he-was-just-playing-a-comedic-character-following-his-social-media-ban-269443",
+            "original": "https://media.thetab.com/blogs.dir/90/files/2022/08/screenshot-2022-08-22-at-123953-e1661168461758.png",
+            "original_width": 1120,
+            "original_height": 590,
+            "is_product": false
+        },
+        {
+            "position": 92,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJ5qk6gDj_GbHEn91xzHxkKQ6uHLeIijlmKA&usqp=CAU",
+            "source": "Al Arabiya",
+            "title": "Andrew Tate denies lung cancer claims, says Dubai doctor visit was a  regular checkup | Al Arabiya English",
+            "link": "https://english.alarabiya.net/News/world/2023/03/05/Andrew-Tate-denies-lung-cancer-claims-says-Dubai-doctor-visit-was-a-regular-checkup",
+            "original": "https://vid.alarabiya.net/images/2023/03/05/f71a5df0-3c52-454d-9871-aedb11ef30b4/f71a5df0-3c52-454d-9871-aedb11ef30b4.jpg?crop=1:1&width=1000",
+            "original_width": 1000,
+            "original_height": 1000,
+            "is_product": false
+        },
+        {
+            "position": 93,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRKZ6fASM1pgHLwlTFlXswVqL-zylaRYGCnA&usqp=CAU",
+            "source": "Sky News",
+            "title": "Andrew Tate: A timeline from Twitter rows to a Romanian cell | World News |  Sky News",
+            "link": "https://news.sky.com/story/andrew-tate-a-timeline-from-twitter-rows-to-a-romanian-cell-12799730",
+            "original": "https://e3.365dm.com/23/01/1600x900/skynews-andrew-tate-tristan_6037148.jpg?20230126155408",
+            "original_width": 1600,
+            "original_height": 900,
+            "is_product": false
+        },
+        {
+            "position": 94,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzWBMfX5GbdP_3HDSxosdgs9juNF0cTZmTjQ&usqp=CAU",
+            "source": "Republika",
+            "title": "Sudah Dua Bulan Ditahan tanpa Dakwaan, Apa Kabar Andrew Tate? | Republika  Online",
+            "link": "https://sport.republika.co.id/berita/rr5byj456/sudah-dua-bulan-ditahan-tanpa-dakwaan-apa-kabar-andrew-tate",
+            "original": "https://static.republika.co.id/uploads/images/inpicture_slide/019478200-1674748970-830-556.jpg",
+            "original_width": 830,
+            "original_height": 556,
+            "is_product": false
+        },
+        {
+            "position": 95,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSRGZy_jcN8E2U8otivvSkJIqcR1sEQNWGdQ&usqp=CAU",
+            "source": "Dot Esports",
+            "title": "Who is Andrew Tate? - Dot Esports",
+            "link": "https://dotesports.com/streaming/news/who-is-andrew-tate",
+            "original": "https://dotesports.com/wp-content/uploads/2022/07/23200328/Screenshot-487.png?w=1200",
+            "original_width": 1200,
+            "original_height": 674,
+            "is_product": false
+        },
+        {
+            "position": 96,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSX5W2jWVjzIAwPwAJCwxhUL_lC8rtffKokjg&usqp=CAU",
+            "source": "CNN",
+            "title": "Andrew Tate to be moved to house arrest with brother as Romanian crime  probe continues | CNN",
+            "link": "https://www.cnn.com/2023/03/31/europe/andrew-tate-house-arrest-intl/index.html",
+            "tag": "1 day ago",
+            "original": "https://media.cnn.com/api/v1/images/stellar/prod/230331120322-andre-tate-tristan-tate-feb-27.jpg?c=16x9&q=h_720,w_1280,c_fill",
+            "original_width": 1280,
+            "original_height": 720,
+            "is_product": true
+        },
+        {
+            "position": 97,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgMZs_IW1W8y0MiU4wBJqsmMQaqKPaytKxLQ&usqp=CAU",
+            "source": "UPI",
+            "title": "Andrew Tate, brother to remain jailed for fourth month in Romania - UPI.com",
+            "link": "https://www.upi.com/Top_News/World-News/2023/03/22/romania-Andrew-Tate-brother-detention-extended/3351679525233/",
+            "original": "https://cdnph.upi.com/svc/sv/upi_com/3351679525233/2023/1/8e92e0af3e90c38dfb1944479d5cfd6f/Andrew-Tate-brother-to-remain-jailed-for-fourth-month-in-Romania.jpg",
+            "original_width": 800,
+            "original_height": 531,
+            "is_product": false
+        },
+        {
+            "position": 98,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_YXFDUIKPQVN3l3XuAAYO4piK4UrnWGlQWg&usqp=CAU",
+            "source": "Essentially Sports",
+            "title": "They're Trying to Decimate My...\u201d: Andrew Tate Sends Concerning Message  From Prison - EssentiallySports",
+            "link": "https://www.essentiallysports.com/boxing-news-theyre-trying-to-decimate-my-andrew-tate-sends-concerning-message-from-prison/",
+            "original": "https://image-cdn.essentiallysports.com/wp-content/uploads/Andrew-Tate-2-1.jpg?width=600",
+            "original_width": 600,
+            "original_height": 337,
+            "is_product": false
+        },
+        {
+            "position": 99,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIeC8JV_jyoTuwnTXV3QQ44OXEPfRCvnqGpw&usqp=CAU",
+            "source": "Narcity",
+            "title": "Andrew Tate's Luxury Car Collection Just Got Smaller & Police Have Seized  Some Sweet Rides - Narcity",
+            "link": "https://www.narcity.com/andrew-tate-luxury-car-collection-just-got-smaller-police-have-seized-some-sweet-rides",
+            "original": "https://www.narcity.com/media-library/andrew-tate-with-one-of-his-cars-right-andrew-tate-smoking-a-cigar.jpg?id=32628030&width=1245&height=700&coordinates=6%2C0%2C0%2C0",
+            "original_width": 1245,
+            "original_height": 701,
+            "is_product": false
+        },
+        {
+            "position": 100,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOUY-VWu-lW8uFA6R6HebSDrM6BJtnlccQtg&usqp=CAU",
+            "source": "CBC",
+            "title": "Social media influencer Andrew Tate detained in Romania on human  trafficking, rape charges | CBC News",
+            "link": "https://www.cbc.ca/news/world/andrew-tate-arrest-romania-1.6700208",
+            "tag": "Video",
+            "original": "https://thumbnails.cbc.ca/maven_legacy/thumbnails/805/163/MPX_DUNCOME_TATE_TAKEDOWN.jpg?crop=1.777xh:h;*,*&downsize=510px:*510w",
+            "original_width": 1919,
+            "original_height": 1080,
+            "is_product": true
+        }
+    ],
+    "related_searches": [
+        {
+            "link": "https://www.google.com/search?q=car+andrew+tate&tbm=isch&hl=en&sa=X&ved=2ahUKEwjN16TYgov-AhXZFmIAHZDMCTMQrNwCKAB6BQgBEJcC",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&filter=0&google_domain=google.com&hl=en&ijn=0&num=10&q=car+andrew+tate&tbm=isch",
+            "query": "car andrew tate",
+            "highlighted_words": [
+                "car"
+            ],
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOSeBydKykt5Enec4WdjaiQa9Ij1-mhz2kvVSPJq7OAtUHpj4w0UeQaVA&usqp=CAU"
+        },
+        {
+            "link": "https://www.google.com/search?q=andrew+tate+bugatti&tbm=isch&hl=en&sa=X&ved=2ahUKEwjN16TYgov-AhXZFmIAHZDMCTMQrNwCKAB6BQgBEJkC",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&filter=0&google_domain=google.com&hl=en&ijn=0&num=10&q=andrew+tate+bugatti&tbm=isch",
+            "query": "andrew tate bugatti",
+            "highlighted_words": [
+                "bugatti"
+            ],
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRQPQBcOFT6_YG91p3i_W_aAFlOXxru8LOIAWWkdW_AkdQBfNntdwbTpA&usqp=CAU"
+        },
+        {
+            "link": "https://www.google.com/search?q=andrew+tate+wallpaper&tbm=isch&hl=en&sa=X&ved=2ahUKEwjN16TYgov-AhXZFmIAHZDMCTMQrNwCKAB6BQgBEJsC",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&filter=0&google_domain=google.com&hl=en&ijn=0&num=10&q=andrew+tate+wallpaper&tbm=isch",
+            "query": "andrew tate wallpaper",
+            "highlighted_words": [
+                "wallpaper"
+            ],
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTu2DmbbtT2lPC_W27A3MrI5ZpTD7N28VUnHPuK7frJMFVoHwd9Yjv3rI&usqp=CAU"
+        },
+        {
+            "link": "https://www.google.com/search?q=instagram+andrew+tate&tbm=isch&hl=en&sa=X&ved=2ahUKEwjN16TYgov-AhXZFmIAHZDMCTMQrNwCKAB6BQgBENEC",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&filter=0&google_domain=google.com&hl=en&ijn=0&num=10&q=instagram+andrew+tate&tbm=isch",
+            "query": "instagram andrew tate",
+            "highlighted_words": [
+                "instagram"
+            ],
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScr6Tt6fjkyGensD9v0b966EbMS6l2-wRIVaBkyqeDY8ola2JRHv5yF3g&usqp=CAU"
+        },
+        {
+            "link": "https://www.google.com/search?q=house+andrew+tate&tbm=isch&hl=en&sa=X&ved=2ahUKEwjN16TYgov-AhXZFmIAHZDMCTMQrNwCKAB6BQgBENMC",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&filter=0&google_domain=google.com&hl=en&ijn=0&num=10&q=house+andrew+tate&tbm=isch",
+            "query": "house andrew tate",
+            "highlighted_words": [
+                "house"
+            ],
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0jFs_FPENKoX98feOSaF7BShVoNXybpU9hKhCCkyNlLX6FABU-8zFx90&usqp=CAU"
+        },
+        {
+            "link": "https://www.google.com/search?q=height+andrew+tate&tbm=isch&hl=en&sa=X&ved=2ahUKEwjN16TYgov-AhXZFmIAHZDMCTMQrNwCKAB6BQgBENUC",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&filter=0&google_domain=google.com&hl=en&ijn=0&num=10&q=height+andrew+tate&tbm=isch",
+            "query": "height andrew tate",
+            "highlighted_words": [
+                "height"
+            ],
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQc84IF22hDxMRdF19vEmGpMblFnNJXN0mkAdGW8y4niVCjnu89GmRtXJY&usqp=CAU"
+        }
+    ]
+}
